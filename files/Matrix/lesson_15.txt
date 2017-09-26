@@ -1,0 +1,14 @@
+Fifteen (Moving to another city): New in town
+Ana: Excuse me. Can I interrupt you?
+Jim: Sure, what can I do for you?
+A:   I'm Ana, the new tenant in apartment six F.
+J:   Oh right. Someone told me that we had a new neighbor. I'm Jim.
+A:   Nice to meet you. I'm still somewhat unfamiliar with this area. I need to get to a pharmacy quickly. Is there one nearby?
+J:   I'm sorry. I don't know.
+A:   Well, thanks anyway.
+J:   So, you just moved here?
+A:   That's right, from the east coast.
+J:   Oh really? I came here from Chicago ten years ago. How do you like the west coast so far?
+A:   A lot. I always wanted to live in Portland. So I took a chance and here I am.
+J:   Yes. It's beautiful here. Well listen, if there's anything I can do for you, just call.
+A:   OK, thanks!  

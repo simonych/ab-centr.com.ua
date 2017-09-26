@@ -1,0 +1,12 @@
+Sixteen (Looking for a job): A job interview
+Director: Please take a seat. We received your resume last week. Your credentials are excellent.         
+Susan:    Thank you.        
+D:        After you finished school you went to work for an insurance company. What were your duties there?
+S:        At first I assisted the vice president of corporate sales. I did most of his legwork for him and took care of all the administrative duties.
+D:        I see you were promoted twice.
+S:        Yes, currently I'm the regional sales representative.
+D:        May I ask why you want to leave your present employer after all this time?
+S:        The position you advertised offers me the opportunity to move into a managerial position. I believe this is the right step at this point in my career.
+D:        I see. You're a very interesting candidate. I have to discuss your application with my colleagues. We'll get back to you next week. 
+S:        Thank you very much.  
+D:        You're welcome.

@@ -1,0 +1,21 @@
+Ten (Likes and dislikes): Dining out
+Sean:     This seems like a nice place.
+Carol:    I hope the food is good.
+Waitress: Good evening! How are you tonight?
+S:        Fine, thanks.
+W:        Our specials tonight are a beef casserole with mushrooms for ten ninety-five and a fresh salmon in garlic sauce for twelve ninety-five. Would you like something to drink first?
+S:        Yes, please. We'd like a bottle of dry white wine.
+W:        Is a Chardonnay OK?
+S:        Yes, that sounds good.
+W:        Do you need a minute to look at the menus?
+S:        Yes, please.
+W:        OK. I'll be right back with your wine.
+S:        Do you know what you want?
+C:        No, I'm not quite sure yet. What about you?
+S:        The fish special sounds great.
+W:        Here is your wine. What can I get you to eat?
+S:        I'd like the salmon special.
+W:        And you, ma'am?
+C:        I'd like the grilled chicken breast and a large spinach salad to start.
+W:        Good choice. The chicken is delicious! Anything else?
+C:        Not at the moment, thanks.

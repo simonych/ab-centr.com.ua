@@ -1,0 +1,7 @@
+@charset "utf-8";
+/* CSS Document */
+
+#comments_template input[type=text] { border: 1px solid #eee;  }
+#comments_template  textarea { border: 1px solid #eee;  }
+
+#single-portfolio-stage img { display:block; opacity:1; visibility:visible; }

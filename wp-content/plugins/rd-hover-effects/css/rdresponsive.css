@@ -1,0 +1,128 @@
+/* Default Layout: 992px.  */
+
+.column {width:960px}
+.circle_single {
+  width: 270px;
+}
+.item-hover.circle {
+  height: 270px;
+  width: 270px;
+}
+.item-hover.circle.effect1 .spinner {
+  height: 270px;
+  width: 270px;
+}
+.item-hover.circle.effect1 .info {
+  bottom: 6px;
+  left: 6px;
+  right: 6px;
+  top: 6px;
+}
+.item-hover.circle.effect1 .img {
+  bottom: 6px;
+  left: 6px;
+  right: 6px;
+  top: 6px;
+}
+.item-hover.circle.effect5 .info {
+bottom: -7px;
+left: 0;
+right: 0;
+top: 5px;
+}
+.main-wrapper .container .circle_single {
+  margin-left: 0;
+  width: 250px;
+}
+.circle_single {
+  margin: 25px !important;
+}
+.item-hover.circle .img {
+  height: 270px;
+  width: 270px;
+}
+.rakib-dev-fifth .mask {
+  transform: translateX(-7000px);
+}
+/*
+Square Style 2 Effects
+*/
+.rakib-dev-second .mask {
+  background-color: rgba(115, 146, 184, 0.7);
+  opacity: 0;
+  padding: 21px;
+  transform: translate(-3px, -163px) rotate(-46deg);
+   -ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=0)";
+   filter: alpha(opacity=0);
+   opacity: 0;
+   -webkit-transform: translate(1px, -146px) rotate(-46deg) ;
+   -moz-transform: translate(1px, -146px) rotate(-46deg) ;
+   -o-transform: translate(1px, -146px) rotate(-46deg) ;
+   -ms-transform: translate(1px, -146px) rotate(-46deg) ;
+   transform: translate(1px, -146px) rotate(-46deg) ;
+   -webkit-transition: all 0.2s ease-in-out;
+   -moz-transition: all 0.2s ease-in-out;
+   -o-transition: all 0.2s ease-in-out;
+   -ms-transition: all 0.2s ease-in-out;
+   transition: all 0.2s ease-in-out;
+}
+
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+.circle_single {
+  width: 245px;
+}
+.item-hover.circle {
+  height: 245px;
+  width: 245px;
+}
+.item-hover.circle.effect1 .spinner {
+  height: 245px;
+  width: 245px;
+}
+.item-hover.circle .img {
+  height: 245px;
+  width: 245px;
+}
+}
+
+
+
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+.column {width:300px}
+
+}
+
+
+
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.column {width:450px}
+.circle_single {
+  width: 430px;
+}
+.item-hover.circle {
+  height: 430px;
+  width: 430px;
+}
+.item-hover.circle.effect1 .spinner {
+  height: 430px;
+  width: 430px;
+}
+.item-hover.circle .img {
+  height: 430px;
+  width: 430px;
+}
+
+.rakib-dev-second .mask {
+  background-color: rgba(115, 146, 184, 0.7);
+  opacity: 0;
+  padding: 72px;
+  transform: translate(-9px, -342px) rotate(-44deg) !important;
+  transition: all 0.2s ease-in-out 0s;
+}
+}

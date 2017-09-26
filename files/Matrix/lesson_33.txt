@@ -1,0 +1,16 @@
+Thirty Three (Traveling abroad): At a travel agency
+John:	Hi. I was supposed to pick up my tickets today.
+Agent:	Yes. I remember. Please take a seat.
+J:	Were you able to get me a discount after all?
+A:	Yes. I got ten percent off for you. 
+J:	That's good news.
+A:	OK. Here are your cruise vouchers, your plane tickets, and a complete itinerary.
+J:	Is that everything?
+A:	Well, you know you have to get a passport, right?
+J:	Yes. I went to the post office, but it was closed.
+A:	Well, you really ought to go to the Federal building directly. It'll be faster.
+J:	Thanks for the tip, but I'd rather wait for the post office to open. The Federal building is all the way downtown. 
+A:	Yes, but you might not get it in time. Is there anything else I can do for you? 
+J:	No, thanks.
+A:	Well, have a great trip.
+ 

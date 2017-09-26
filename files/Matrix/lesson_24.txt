@@ -1,0 +1,15 @@
+Twenty Four (Renting a car): At a car rental agency
+Mark:	Hello. I would like to rent a car for two days.
+Agent:	OK. What kind of car did you have in mind?
+M:	The smallest and the cheapest one you have will do.
+A:	A sedan is the least expensive car we have. We have one that is very economical.
+M:	Sounds good.
+A:	May I see your driver's license, please?
+M:	Sure, here you go. 
+A:	Thanks. Please fill out this form. Write your address, and sign your name at the bottom of the page. The price includes unlimited mileage and the mandatory collision insurance.
+M:	Oh, great! That's better than I thought.
+A:	Here are your keys.
+M:	Do I have to return the car to this location?
+A:	No, you can drop it off at any of our local branches.
+M:	Thanks.
+A:	You're welcome. Drive safely and buckle up!

@@ -1,0 +1,14 @@
+Twenty Eight (Getting things fixed): On the phone with the landlord  
+Tenant:		Hi, Mrs. Rogers. This is Steve, your tenant in apartment thirteen. 
+Mrs. Rogers:	Hi, Steve. I haven't seen you for a long time.
+T:		Well, I've been busy.
+R:		What can I do for you?
+T:		There are some problems in the apartment. The faucet in the kitchen is leaking.
+R:		OK. I'll send the plumber tomorrow to take a look at it. Anything else?
+T:		Yes. The heater isn't working well. 
+R:		They still haven't fixed it? I sent someone to look at it last week. 
+T:		I know.
+R:		What's wrong with it now?
+T:		Well, it makes a lot of noise, and we only get a little heat.
+R:		They should have fixed it the first time. I'll call them again.
+T:		Perfect. I'll be here.

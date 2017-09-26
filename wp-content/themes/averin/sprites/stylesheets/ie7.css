@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+
+#comments_template input[type=text] { border: 1px solid #eee;  }
+#comments_template  textarea { border: 1px solid #eee;  }
+
+#single-portfolio-stage img { display:block; opacity:1; visibility:visible; zoom:1; }
+
+.thumbdata { opacity:0!important; }
+
+.theme-style-wrapper { background:none!important;  }
+.single-portfolio .title { position:relative!important; z-index:999!important; zoom:1;  }
+.single-portfolio .title h1 { position:relative; z-index:99; }
+
+
+.homepage-slider .stagableSlider ul.mainslider li.fullstage>a , .homepage-slider .stagableSlider ul.mainslider li.fullstage>div.videoholder , .homepage-slider  .stagableSlider ul.mainslider li.leftstage>a , .homepage-slider .stagableSlider ul.mainslider li.leftstage>div.videoholder , .homepage-slider  .stagableSlider ul.mainslider li.rightstage>a , .homepage-slider .stagableSlider ul.mainslider li.rightstage>div.videoholder , .homepage-slider div.qSlider , .homepage-slider  .quartz { background:none!important; }
+
+#menu>li>ul.sub-menu ul { z-index:9999; zoom:1; }
+#menu>li>ul.sub-menu { zoom:1; overflow:visible!important; }
+#menu li {  overflow:visible!important; zoom:1; }
+
+#home-block {  padding-bottom:50px;}
+
+#page-starter { position:relative; z-index:3; }
+
+.blog-posts a.single-comment { z-index:9999; left:-225px; top:-5px;  zoom:1 }
+.blog-posts li:first-child { padding-bottom:50px; }
+
+.imageholder-wrapper  { position:relative; z-index:1; }
+.description { position:relative; z-index:99; }
+
+#page-starter {   zoom:1 }

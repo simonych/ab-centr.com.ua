@@ -1,0 +1,87 @@
+.rakib-dev {
+cursor: default;
+float: left;
+height: 100%;
+overflow: hidden;
+position: relative;
+text-align: center;
+width: 100%;
+}
+.rakib-dev .mask,.rakib-dev .rd_content {
+   width: 100%;
+   height: 100%;
+   position: absolute;
+   overflow: hidden;
+   top: 0;
+   left: 0;
+}
+.rakib-dev-ninth  .rd_content {
+   width: 100%;
+   height: 0px;
+   position: absolute;
+   overflow: hidden;
+   top: 0;
+   left: 0;
+}
+.rakib-dev img {
+   display: block;
+   position: relative;
+}
+.rakib-dev h2 {
+border-bottom: 1px solid #fff;
+color: #fff !important;
+font-size: 17px;
+margin: 20px 0 0;
+padding: 7px;
+position: relative;
+text-align: center;
+text-transform: uppercase;
+}
+.rakib-dev p {
+margin-bottom: 20px !important;
+color: #fff !important;
+font-family: Georgia,serif;
+font-size: 13px;
+font-style: italic;
+line-height: 18px !important;
+padding: 10px 20px 0;
+position: relative;
+text-align: center;
+}
+
+.rakib-dev a {
+background-color: rgba(0, 0, 0, 0.4);
+border-bottom: 0 none;
+box-shadow: 0 0 1px #000;
+color: #fff !important;
+display: inline-block;
+font-size: 15px;
+padding: 5px 14px;
+text-decoration: none;
+text-transform: uppercase;
+}
+.rakib-dev a:hover {
+background-color: rgba(0, 0, 0, 0.4);
+border-bottom: 0 none;
+color: #fff;
+display: inline-block;
+font-size: 15px;
+padding: 5px 14px;
+text-decoration: none;
+text-transform: uppercase;
+   -webkit-box-shadow: 0 0 1px #000;
+   -moz-box-shadow: 0 0 1px #000;
+box-shadow: 0 0 1px #000;
+}
+
+#style1  ul, #style2  ul, #style3  ul, #style4  ul, #style5  ul{
+  overflow: hidden;
+  width: 100% !important;
+}
+
+/*
+CSUTOM CSS
+*/
+.main-wrapper.container {
+  width: 100%;
+}

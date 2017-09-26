@@ -1,0 +1,17 @@
+Twenty Seven (In the hotel): On the phone
+David:	 This is room two-O-nine.
+Manager: Yes, how may I help you, sir?
+D:	 I would like another room.
+M:	 Is there a problem?
+D:	 Well, the shower in my room doesn't work.
+M:	 I'm sorry. I don't have any other rooms available at the moment. But I will send someone to take a look at your shower.
+D:	 How soon will that be? 
+M:	 It might be about an hour. 
+D:	 That's unacceptable. I have an appointment in an hour, and I need to take a shower first.
+M:	 I'm sorry, sir. If I could, I would help you. 
+D:	 So, what do you suggest I do?
+M:	 Well, in the meantime, you could enjoy the complimentary breakfast that we'll send to your room.
+D:	 This will hardly take care of the problem, but thanks. And make sure my shower is fixed as soon as possible.
+M:	 Of course. I'll continue to look for another room for you as well. And sorry for the inconvenience.
+
+Note:	 two-O-nine = 209

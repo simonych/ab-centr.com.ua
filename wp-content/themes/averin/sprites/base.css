@@ -1,0 +1,791 @@
+/* CSS Document */
+
+/* ================================================================================== */
+/* == CSS RESET & HTML5 Support ===================================================== */
+/* ================================================================================== */
+.ui-helper-clearfix:after , .clearfix:after {
+content:".";
+display:block;
+height:0;
+clear:both;
+visibility:hidden;
+}
+
+.ui-helper-clearfix , .clearfix{ display:inline-block; zoom:1; }
+* html .clearfix , * html .ui-helper-clearfix{ height:1%; }
+.hide { display:none; }
+.clearfix , .ui-helper-clearfix { display:block; }
+.clearleft { clear:left!important; } 
+.clearright { clear:right!important; }
+.nomarginleft { margin-left:0!important; }
+.nomarginright { margin-right:0!important; }
+.nohover a { cursor: auto!important;  }
+/* ================================================================================== */
+/* ==  HTML5 element display ======================================================== */
+/* ================================================================================== */
+
+
+article, aside, details, figcaption, figure, footer, header, hgroup, nav, section { display: block; }
+audio[controls], canvas, video { display: inline-block; *display: inline; *zoom: 1; }
+
+
+/* ================================================================================== */
+/* ==  RESET ======================================================================== */
+/* ================================================================================== */
+
+html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,figure,footer,header,hgroup,menu,nav,section,menu,time,mark,audio,video {
+margin:0;
+padding:0;
+border:0;
+outline:0;
+font-size:100%;
+vertical-align:baseline;
+background:transparent;
+}
+
+article,aside,figure,footer,header,hgroup,nav,section {
+display:block;
+}
+
+ul {
+list-style:none;
+}
+
+blockquote,q {
+quotes:none;
+}
+
+blockquote:before,blockquote:after,q:before,q:after {
+content:'';
+content:none;
+}
+
+a {
+margin:0;
+padding:0;
+font-size:100%;
+vertical-align:baseline;
+background:transparent;
+color:#111;
+text-decoration:none;
+}
+
+ins {
+background-color:#ff9;
+color:#000;
+text-decoration:none;
+}
+
+mark {
+background-color:#ff9;
+color:#000;
+font-style:italic;
+font-weight:700;
+}
+
+del {
+text-decoration:line-through;
+}
+
+abbr[title],dfn[title] {
+border-bottom:1px dotted #000;
+cursor:help;
+}
+
+table {
+border-collapse:collapse;
+border-spacing:0;
+}
+
+hr {
+display:block;
+height:1px;
+border:0;
+border-top:1px solid #ccc;
+margin:1em 0;
+padding:0;
+}
+
+input,select {
+vertical-align:middle;
+}
+
+input[type=submit] {
+outline:none;
+border:none;
+}
+
+input:focus,textarea:focus {
+outline:none;
+}
+
+table th { padding:6px 14px; border-bottom:1px solid #ccc; }
+table td { padding:6px 14px; border-bottom:1px solid #eee;  }
+
+strong{color: #444;}
+
+/* ================================================================================== */
+/* == Reusable Classes ============================================================== */
+/* ================================================================================== */
+
+.left {
+float:left;
+margin:10px 5px;
+}
+
+.right {
+float:right;
+margin:10px 5px;
+}
+
+
+
+/* ================================================================================== */
+/* == Base Styling ================================================================== */
+/* ================================================================================== */
+
+select { background-color:transparent; }
+html {  overflow-x:hidden; }
+
+a:link { }
+a:visited { text-decoration:none; }
+a:hover { text-decoration:none; }
+a:hover,a:active { outline:none; }
+
+.content ol,.content ul {margin-bottom: 20px;margin-top: 15px;}
+.content ol {
+display:block;
+padding-left:0px;
+padding-top:10px;
+padding-bottom:15px;
+}
+
+.content ol li { padding-left:10px; }
+
+.content ol li,.content ul ol li { list-style-type:decimal; }
+
+.content ul li { list-style-type:disc; }
+.content ul ul li { list-style-type:circle; }
+.content ul ul ul li { list-style-type:square; }
+
+.content ol ol li { list-style-type:lower-alpha; }
+.content ol ol ol li { list-style-type:lower-roman; }
+
+.content dd { 
+padding-left:20px;
+margin-top:.5em;
+}
+
+.content li {
+margin-left:30px;
+}
+
+
+.content table {
+margin-right:30px;
+margin-left:30px;
+}
+
+hr {
+margin-right:30px;
+margin-left:30px;
+border-style:inset;
+border-width:1px;
+}
+
+.content form { display:block; }
+.content input[type=text]  { display:block; border:1px solid #ddd; }
+.content label { display:block; }
+.content select ,  .content input[type=radio] ,  .content input[type=checkbox] ,   .content input[type=select] { display:block; }
+.content input[type=submit] { background:url(i/s/button-sprite.png) repeat-x #ffffff; display:block; padding:5px 10px; border:1px solid #dddddd; }
+
+/* =================================================================================== */
+/* == Wordpress Visual Editor Styles ================================================= */
+/* =================================================================================== */
+.entry-content img {
+margin:0 0 1.5em;
+}
+
+.alignleft,img.alignleft {
+margin-right:2.5em;
+margin-top: 1em;
+display:inline;
+float:left;
+}
+
+.alignright,img.alignright {
+margin-left:2.5em;
+margin-top: 2em;
+margin-bottom: 2.5em;
+display:inline;
+float:right;
+}
+
+.aligncenter,img.aligncenter {
+margin-right:auto;
+margin-left:auto;
+display:block;
+clear:both;
+}
+
+.alignnone,img.alignnone {
+}
+
+.wp-caption {
+margin-bottom:1.5em;
+text-align:center;
+padding-top:5px;
+}
+
+.wp-caption img {
+border:0 none;
+padding:0;
+margin:0;
+}
+
+.wp-caption p.wp-caption-text {
+line-height:1.5;
+font-size:10px;
+margin:0;
+}
+
+.wp-smiley {
+margin:0!important;
+max-height:1em;
+}
+
+blockquote.left {
+margin-right:20px;
+text-align:right;
+margin-left:0;
+width:33%;
+float:left;
+}
+
+blockquote.right {
+margin-left:20px;
+text-align:left;
+margin-right:0;
+width:33%;
+float:right;
+}
+
+.gallery dl {}
+.gallery dt {}
+.gallery dd {}
+.gallery dl a {}
+.gallery dl img {}
+.gallery-caption {}
+.size-full {}
+.size-large {}
+.size-medium {}
+.size-thumbnail {}
+
+/* =============================================================================
+   PLACEHOLDER Media Queries for Responsive Design.
+   These override the primary ('mobile first') styles
+   Modify as content requires.
+   ========================================================================== */
+
+@media only screen and (min-width: 480px) {
+  /* Style adjustments for viewports 480px and over go here */
+
+}
+
+@media only screen and (min-width: 768px) {
+  /* Style adjustments for viewports 768px and over go here */
+
+}
+
+
+/* =============================================================================
+   Print styles.
+   Inlined to avoid required HTTP connection: www.phpied.com/delay-loading-your-print-css/
+   ========================================================================== */
+ 
+@media print {
+  * { background: transparent !important; color: black !important; text-shadow: none !important; filter:none !important; -ms-filter: none !important; } /* Black prints faster: sanbeiji.com/archives/953 */
+  a, a:visited { color: #444 !important; text-decoration: underline; }
+  a[href]:after { content: " (" attr(href) ")"; }
+  abbr[title]:after { content: " (" attr(title) ")"; }
+  .ir a:after, a[href^="javascript:"]:after, a[href^="#"]:after { content: ""; }  /* Don't show links for images, or javascript/internal links */
+  pre, blockquote { border: 1px solid #999; page-break-inside: avoid; }
+  thead { display: table-header-group; } /* css-discuss.incutio.com/wiki/Printing_Tables */
+  tr, img { page-break-inside: avoid; }
+  img { max-width: 100% !important; }
+  @page { margin: 0.5cm; }
+  p, h2, h3 { orphans: 3; widows: 3; }
+  h2, h3{ page-break-after: avoid; }
+}
+
+
+
+/* =================================================================================== */
+/* == Sliders Styling ================================================================ */
+/* =================================================================================== */
+
+.slider-wrapper-shade {
+background:url(i/slider-shadow.png) no-repeat bottom center;
+padding-bottom:74px;
+margin-bottom:-70px;
+position:relative;
+}
+
+/* == Scrollable Settings ====================================== */
+
+.scrollable-wrapper { position:relative; }
+.scrollable { position:relative; width:400px; height:250px; overflow:hidden; margin-top: 0px; padding:0; }
+.scrollable .items {
+	/* this cannot be too large */
+	width:20000em!important;
+	position:absolute;
+	top:0; left:0;
+	margin-top: 0px; padding:0;
+}
+ .scrollable .items>a ,    .scrollable .items>li ,    .scrollable .items>div{ list-style:none; margin:0; padding:0; display:block; float:left!important; position:relative; box-shadow:none; -moz-box-shadow:none; }
+ 
+.scrollable .items a img {  margin:0; padding:0; box-shadow:none; -moz-box-shadow:none; }
+.scrollable .arrow-set { position:absolute; top:20px; left:5px; z-index:99; } 
+
+
+/* == Arrow Set ====================================== */
+
+.arrow-set { z-index:9; position:absolute; bottom:0; left:0; }
+.arrow-set a {  background:#fafafa url(i/np-btn.png) repeat-x!important; float:left; margin:0; padding:3px 10px; -webkit-border-radius: 2px;-moz-border-radius: 2px; border-radius: 2px;display: block;  border: 1px solid #d5d5d5!important; color: #777!important; font-weight:900; font-size:11px; text-shadow:1px 1px 0px #fff !important; }
+
+/* == Accordion Settings ====================================== */
+
+.kwicks {  
+    list-style: none;  
+    position: relative;  
+    margin: 0px!important;  
+    padding: 0!important;  
+	overflow:hidden;
+	
+}  
+.kwicks li{  
+    display: block;  
+    overflow: hidden;  
+    padding: 0!important;  
+    cursor: pointer;  
+	position:relative;
+	float: left;  
+    margin: 0px!important;  
+	box-shadow:-10px 0px 20px #111;
+}  
+
+.kwicks .desc { display:none; }
+
+
+.stageslider { overflow:hidden; }
+.stagableSlider {  overflow:visible; position:relative; border:none!important; margin:0;  }
+.stagableSlider ul.mainslider { margin:0; padding:0; list-style:none; position:relative;  display:block;  border:none!important; list-style:none;  }
+.stagableSlider ul.mainslider li {  position:absolute; top:0; left:0; border:none!important;  margin:0; padding:0; list-style:none;  }
+.stagableSlider ul.mainslider li div.desc { padding-top:20px; }
+.stagableSlider ul.mainslider li div.desc h2 { font-size:32px; font-weight:900;line-height:1.2; }
+.stagableSlider ul.mainslider li div.desc p {  margin:10px 0; }
+
+.stagableSlider ul.mainslider li>a {  margin:0; padding:0; outline:none; border:none; text-decoration:none;  }
+.stagableSlider ul.mainslider li>a img , .stagableSlider ul.mainslider li>div.videoholder>div { margin:0; padding:0; display:block;   }
+.stagableSlider ul.mainslider li.fullstage>div.videoholder>div { width:630px; }
+
+.stagableSlider ul.mainslider li.fullstage div.desc { display:none;  }
+
+.stagableSlider ul.mainslider li.fullstage>a {  margin:0; padding:0; outline:none; border:none; text-decoration:none; }
+.stagableSlider ul.mainslider li.fullstage>div.videoholder  {  margin:0; padding:0; outline:none; border:none; text-decoration:none;  display:block; }
+.homepage-slider .stagableSlider ul.mainslider li.fullstage>a , .homepage-slider .stagableSlider ul.mainslider li.fullstage>div.videoholder  {   display:block; }
+
+.stagableSlider .controls { background:#fff;
+position:absolute;
+bottom:-48px;
+border:1px solid #fff;
+border-top:none;
+-webkit-box-shadow:0 1px 0px #ddd;
+-moz-box-shadow:0 1px 0px #ddd;
+box-shadow:0 1px 0px  #ddd;
+padding:5px 8px;
+left:270px;
+z-index:99;
+-webkit-border-bottom-right-radius:2px;
+-webkit-border-bottom-left-radius:2px;
+-moz-border-radius-bottomright:2px;
+-moz-border-radius-bottomleft:2px;
+border-bottom-right-radius:2px;
+border-bottom-left-radius:2px; }
+
+/* == Quickie Slider Settings ====================================== */
+
+.fadeslider , .quartzslider { overflow:hidden; }
+
+.qSlider , .quartz {  overflow:visible; position:relative;     background:none!important;   margin-bottom:30px; }
+
+.qSlider ul.mainslider , .quartz ul.mainslider  { margin:0!important; padding:0!important; list-style:none; position:relative; overflow:hidden; display:block;  border:none;  }
+
+
+.qSlider ul.mainslider li  , .quartz ul.mainslider li  {  position:absolute; top:0; left:0; border:none;  margin:0!important; padding:0!important; display:block;  }
+.qSlider ul.mainslider li>a , .quartz  ul.mainslider li>a  , .kwicks li a{ display:block;  margin:0!important; padding:0!important; outline:none; border:none; text-decoration:none;   }
+.qSlider ul.mainslider li>a img , .quartz ul.mainslider li>a img , .kwicks li img { margin:0!important; padding:0;!important display:block; }
+.KBSlider ul.mainslider li>a img { position:absolute; top:0; left:0; }
+.reset { z-index:1; }
+.active { z-index:5; }
+
+.controls { position:absolute; bottom:-20px; padding:5px 8px 5px 0; left:0; z-index:999;   }
+.controls li { position:relative; z-index:999; cursor:pointer; display:block; width:16px!important; height:16px!important; background:url(i/default.png) no-repeat!important; float:left; margin:0px 2px; text-indent:-9999px; border:none!important; padding:0!important; }
+.controls li.control_active { background:url(i/active.png) no-repeat!important; }
+
+.quartz ul.mainslider .desc , .qSlider ul.mainslider .desc , .scrollable .desc , .kwicks li div.desc { position:absolute; bottom:20px; left:0px;  background:#111111; padding-bottom:16px; width:70%; color:#fff; font-size: 11px; padding-right:10px; }
+.quartz ul.mainslider .desc h2 , .qSlider ul.mainslider .desc h2 ,  .scrollable .desc h2 , .kwicks li div.desc h2 { color:#fff!important; font-weight:100; margin-top:20px;  margin-left:20px; margin-bottom:5px; line-height:1.4;  font-size:18px; letter-spacing: 1px;}
+.quartz ul.mainslider .desc p , .qSlider ul.mainslider .desc p ,  .scrollable .desc p , .kwicks li div.desc p{ margin:0px 7px 5px 7px; line-height: 18px; padding-top:0; }
+.quartz .ul.mainslider .desc small { color:#969aa5; font-size:11px; font-style:italic; margin-left:20px; margin-top:5px; display:blockl }
+.quartz ul.mainslider .desc small a { color:#fff; }
+.quartz ul.mainslider .desc p { display:block; margin-left:20px; line-height:1.5; color:#fff; }
+.quartz ul.mainslider .desc a.more-link { background:url(sprites/i/more-bg-slice.jpg) repeat-x #eeeeee; border-radius:4px; -moz-border-radius:4px; color:#000; padding:6px 12px; font-size:9px; font-weight:900; text-transform:uppercase;  display:inline-block; float:right; margin-top:30px; margin-right:20px; }
+
+.scrollable .desc { display:block; }
+.scrollable .desc h2  {  }
+
+
+
+
+.qSlider .controls  , .quartz .controls  { background:#fff;
+position:absolute;
+bottom:-48px;
+border:1px solid #fff;
+border-top:none;
+-webkit-box-shadow:0 1px 0px #ddd;
+-moz-box-shadow:0 1px 0px #ddd;
+box-shadow:0 1px 0px  #ddd;
+padding:5px 8px;
+left:270px;
+z-index:99;
+-webkit-border-bottom-right-radius:2px;
+-webkit-border-bottom-left-radius:2px;
+-moz-border-radius-bottomright:2px;
+-moz-border-radius-bottomleft:2px;
+border-bottom-right-radius:2px;
+border-bottom-left-radius:2px; }
+
+
+/* == PRE styling =================================== */
+
+.syntaxhighlighter {  padding:4px 20px; border:none; box-shadow:none; border-radius:2px; -moz-border-radius:2px; display:block; } 
+.syntaxhighlighter a,
+.syntaxhighlighter div,
+.syntaxhighlighter code,
+.syntaxhighlighter table,
+.syntaxhighlighter table td,
+.syntaxhighlighter table tr,
+.syntaxhighlighter table tbody,
+.syntaxhighlighter table thead,
+.syntaxhighlighter table caption,
+.syntaxhighlighter textarea {
+  -moz-border-radius: 0 0 0 0 !important;
+  -webkit-border-radius: 0 0 0 0 !important;
+  background: #ddd !important;
+  border: 0 !important;
+  bottom: auto !important;
+  float: none !important;
+  height: auto !important;
+  left: auto !important;
+  line-height: 1.8em !important;
+  margin: 0 !important;
+  outline: 0 !important;
+  overflow: visible !important;
+  padding: 0 !important;
+  position: static !important;
+  right: auto !important;
+  text-align: left !important;
+  top: auto !important;
+  vertical-align: baseline !important;
+  width: auto !important;
+  box-sizing: content-box !important;
+  font-family: "Consolas", "Bitstream Vera Sans Mono", "Courier New", Courier, monospace !important;
+  font-weight: normal !important;
+  font-style: normal !important;
+  font-size: 1em !important;
+  min-height: inherit !important;
+  min-height: auto !important;
+}
+
+.syntaxhighlighter {
+ background: #ddd !important;
+  width: 90% !important;
+  margin: 1em 0 3em 0 !important;
+  position: relative !important;
+  overflow: auto !important;
+  font-size: 1em !important;
+}
+.syntaxhighlighter.source {
+  overflow: hidden !important;
+}
+.syntaxhighlighter .bold {
+  font-weight: bold !important;
+}
+.syntaxhighlighter .italic {
+  font-style: italic !important;
+}
+
+.syntaxhighlighter div.line:nth-child(2n+1) { background:#ddd!important; }
+.syntaxhighlighter div.line { height:21px!important; padding:5px!important; }
+.syntaxhighlighter .line {
+  white-space: pre !important;
+ 
+}
+.toolbar { display:none!important; }
+.syntaxhighlighter table {
+  width: 100% !important;
+}
+.syntaxhighlighter table caption {
+  text-align: left !important;
+  padding: .5em 0 0.5em 1em !important;
+}
+.syntaxhighlighter table td.code {
+  width: 100% !important;
+}
+.syntaxhighlighter table td.code .container {
+  position: relative !important;
+}
+.syntaxhighlighter table td.code .container textarea {
+  box-sizing: border-box !important;
+  position: absolute !important;
+  left: 0 !important;
+  top: 0 !important;
+  width: 100% !important;
+  height: 100% !important;
+  border: none !important;
+  background: #ddd !important;
+  padding-left: 1em !important;
+  overflow: hidden !important;
+  white-space: pre !important;
+}
+.syntaxhighlighter table td.gutter .line {
+  text-align: right !important;
+  color: #444;
+}
+.syntaxhighlighter table td.code .line {
+  
+}
+.syntaxhighlighter.nogutter td.code .container textarea, .syntaxhighlighter.nogutter td.code .line {
+  padding-left: 0em !important;
+}
+.syntaxhighlighter.show {
+  display: block !important;
+}
+.syntaxhighlighter.collapsed table {
+  display: none !important;
+}
+.syntaxhighlighter.collapsed .toolbar {
+  padding: 0.1em 0.8em 0em 0.8em !important;
+  font-size: 1em !important;
+  position: static !important;
+  width: auto !important;
+  height: auto !important;
+}
+.syntaxhighlighter.collapsed .toolbar span {
+  display: inline !important;
+  margin-right: 1em !important;
+}
+.syntaxhighlighter.collapsed .toolbar span a {
+  padding: 0 !important;
+  display: none !important;
+}
+.syntaxhighlighter.collapsed .toolbar span a.expandSource {
+  display: inline !important;
+}
+.syntaxhighlighter .toolbar {
+  position: absolute !important;
+  right: 1px !important;
+  top: 1px !important;
+  width: 11px !important;
+  height: 11px !important;
+  font-size: 10px !important;
+  z-index: 10 !important;
+}
+.syntaxhighlighter .toolbar span.title {
+  display: inline !important;
+}
+.syntaxhighlighter .toolbar a {
+  display: block !important;
+  text-align: center !important;
+  text-decoration: none !important;
+  padding-top: 1px !important;
+}
+.syntaxhighlighter .toolbar a.expandSource {
+  display: none !important;
+}
+.syntaxhighlighter.ie {
+  font-size: .9em !important;
+  padding: 1px 0 1px 0 !important;
+}
+.syntaxhighlighter.ie .toolbar {
+  line-height: 8px !important;
+}
+.syntaxhighlighter.ie .toolbar a {
+  padding-top: 0px !important;
+}
+.syntaxhighlighter.printing .line.alt1 .content,
+.syntaxhighlighter.printing .line.alt2 .content,
+.syntaxhighlighter.printing .line.highlighted .number,
+.syntaxhighlighter.printing .line.highlighted.alt1 .content,
+.syntaxhighlighter.printing .line.highlighted.alt2 .content {
+  background: none !important;
+}
+.syntaxhighlighter.printing .line .number {
+  color: #ddd !important;
+}
+.syntaxhighlighter.printing .line .content {
+  color: black !important;
+}
+.syntaxhighlighter.printing .toolbar {
+  display: none !important;
+}
+.syntaxhighlighter.printing a {
+  text-decoration: none !important;
+}
+.syntaxhighlighter.printing .plain, .syntaxhighlighter.printing .plain a {
+  color: black !important;
+}
+.syntaxhighlighter.printing .comments, .syntaxhighlighter.printing .comments a {
+  color: #008200 !important;
+}
+.syntaxhighlighter.printing .string, .syntaxhighlighter.printing .string a {
+  color: blue !important;
+}
+.syntaxhighlighter.printing .keyword {
+  color: #006699 !important;
+  font-weight: bold !important;
+}
+.syntaxhighlighter.printing .preprocessor {
+  color: gray !important;
+}
+.syntaxhighlighter.printing .variable {
+  color: #aa7700 !important;
+}
+.syntaxhighlighter.printing .value {
+  color: #009900 !important;
+}
+.syntaxhighlighter.printing .functions {
+  color: #ff1493 !important;
+}
+.syntaxhighlighter.printing .constants {
+  color: #0066cc !important;
+}
+.syntaxhighlighter.printing .script {
+  font-weight: bold !important;
+}
+.syntaxhighlighter.printing .color1, .syntaxhighlighter.printing .color1 a {
+  color: gray !important;
+}
+.syntaxhighlighter.printing .color2, .syntaxhighlighter.printing .color2 a {
+  color: #ff1493 !important;
+}
+.syntaxhighlighter.printing .color3, .syntaxhighlighter.printing .color3 a {
+  color: red !important;
+}
+.syntaxhighlighter.printing .break, .syntaxhighlighter.printing .break a {
+  color: black !important;
+}
+
+.syntaxhighlighter {
+  background-color: #ddd !important;
+}
+.syntaxhighlighter .line.alt1 {
+  background-color: #ddd !important;
+}
+.syntaxhighlighter .line.alt2 {
+  background-color: #ddd !important;
+}
+.syntaxhighlighter .line.highlighted.alt1, .syntaxhighlighter .line.highlighted.alt2 {
+  background-color: #ddd !important;
+}
+.syntaxhighlighter .line.highlighted.number {
+  color: black !important;
+}
+.syntaxhighlighter table caption {
+  color: black !important;
+}
+.syntaxhighlighter .gutter {
+  color: #444 !important;
+  background: #ddd;
+}
+.syntaxhighlighter .gutter .line {
+  border-right: 3px solid #ddd !important; height: 20px;padding-right:3px!important;
+}
+.syntaxhighlighter .gutter .line.highlighted {
+  background-color: #6ce26c !important;
+  color: #444 !important;
+}
+.syntaxhighlighter.printing .line .content {
+  border: none !important;
+}
+.syntaxhighlighter.collapsed {
+  overflow: visible !important;
+}
+.syntaxhighlighter.collapsed .toolbar {
+  color: blue !important;
+  background: #ddd !important;
+  border: 1px solid #6ce26c !important;
+}
+.syntaxhighlighter.collapsed .toolbar a {
+  color: blue !important;
+}
+.syntaxhighlighter.collapsed .toolbar a:hover {
+  color: red !important;
+}
+.syntaxhighlighter .toolbar {
+  color: #ddd !important;
+  background: #6ce26c !important;
+  border: none !important;
+}
+.syntaxhighlighter .toolbar a {
+  color: #ddd !important;
+}
+.syntaxhighlighter .toolbar a:hover {
+  color: black !important;
+}
+.syntaxhighlighter .plain, .syntaxhighlighter .plain a {
+  color: black !important;
+}
+.syntaxhighlighter .comments, .syntaxhighlighter .comments a {
+  color: #008200 !important;
+}
+.syntaxhighlighter .string, .syntaxhighlighter .string a {
+  color: blue !important;
+}
+.syntaxhighlighter .keyword {
+  color: #006699 !important;
+}
+.syntaxhighlighter .preprocessor {
+  color: gray !important;
+}
+.syntaxhighlighter .variable {
+  color: #aa7700 !important;
+}
+.syntaxhighlighter .value {
+  color: #009900 !important;
+}
+.syntaxhighlighter .functions {
+  color: #ff1493 !important;
+}
+.syntaxhighlighter .constants {
+  color: #0066cc !important;
+}
+.syntaxhighlighter .script {
+
+  font-weight: bold !important;
+  color: #006699 !important;
+  background-color: none !important;
+}
+.syntaxhighlighter .color1, .syntaxhighlighter .color1 a {
+  color: gray !important;
+}
+.syntaxhighlighter .color2, .syntaxhighlighter .color2 a {
+  color: #ff1493 !important;
+}
+.syntaxhighlighter .color3, .syntaxhighlighter .color3 a {
+  color: red !important;
+}
+
+.syntaxhighlighter .keyword {
+  font-weight: bold !important;
+}

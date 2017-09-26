@@ -1,0 +1,16 @@
+Twelve (Banking): Opening a bank account
+Clerk: How can I help you today?
+Mario: We need to open a checking account.
+C:     Well, there are two options. First, our standard checking account has no minimum balance requirement, but there's a monthly service fee of ten dollars.
+Laura: What about the other option?
+C:     Our golden checking account has a minimum balance requirement of one thousand dollars, but there's no monthly service fee. Money orders and traveler's checks are free as well.
+M:     Which choice would you prefer?
+L:     A ten dollar service fee is a lot of money, but I think we should take the standard checking account anyway.
+M:     I agree.
+C:     Do you want this to be a joint account?
+L:     Yes, please.
+C:     Please fill out these forms. Also, I need two forms of identification.
+M:     Whose name will appear on the checks?
+C:     Both of your names.
+L:     Can we get two ATM cards with this account?
+C:     Certainly.

@@ -1,0 +1,10 @@
+name = Dropbox Client
+description = Access Dropbox Using App Dropbox Client For Drupal.
+package = Other
+core = 7.x
+; Information added by drupal.org packaging script on 2012-01-14
+version = "7.x-3.x-dev"
+core = "7.x"
+project = "dropbox_client"
+datestamp = "1326500090"
+

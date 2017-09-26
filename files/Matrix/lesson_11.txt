@@ -1,0 +1,23 @@
+Eleven (Health): The doctor's office
+Patient:      Hi, this is Carlo Pirelli calling. I need to see the doctor immediately.
+Receptionist: Is this an emergency?
+P:            Yes, I have a terrible stomachache and a fever.
+R:            Is this your first time in this office?
+P:            No, I'm a regular patient.
+R:            Go ahead and come in right away.
+P:            Hi, my name is Carlo Pirelli.
+R:            Yes. Take a seat right here for a moment.
+Nurse:        Hello. Let me take your temperature and blood pressure.
+P:            Sure.
+N:            Well, your temperature is a little high, but your blood pressure is perfect for your age.
+P:            That's good to hear.
+N:            The doctor will be right in.
+P:            Thanks.
+Doctor:       Mister Pirelli, I hear you're in pain.
+P:            Yes. I have a stomachache and I feel a little dizzy.
+D:            Does it hurt if I press here?
+P:            Yes.
+D:            Take a deep breath. It doesn't seem to be anything serious. You probably just have the flu. There's a virus going around. Don't worry about it.
+P:            So, there's nothing I can do?
+D:            Go home, rest and drink lots of fluids. If you don't feel better in a couple of days, come back to see me.
+P:            Thanks.

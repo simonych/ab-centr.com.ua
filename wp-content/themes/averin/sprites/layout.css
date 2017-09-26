@@ -1,0 +1,107 @@
+/* CSS Document */
+
+/* ================================================================================== */
+/* == Layout ======================================================================== */
+/* ================================================================================== */
+
+.skeleton { padding:0; width:980px; padding:0; margin:0 auto; position:relative; z-index:2;  } 
+.container , .dummy-footer-text {
+width:940px;
+margin-left:auto;
+margin-right:auto;
+padding:0 20px!important;
+position:relative;
+z-index:2;
+}
+
+.full-width { padding:0px 0px 20px 0; }
+
+.one_half { width:452px; float:left; margin:4px 35px 4px 0px;  }
+.one_half_last { width:452px; float:left; margin:4px 0 4px 0px; padding-right:0; clear:right!important;  }
+
+.one_third { width:283px; float:left; margin:4px 35px 4px 0px;  text-align: justify;}
+.one_third_last { width:283px; float:left; margin:4px 0 4px 0px; padding-right:0; clear:right!important; margin-right:0!important; }
+
+.one_fourth { width:208px; float:left; margin:4px 35px 4px 0px; }
+.one_fourth_last { width:208px; float:left;  margin:4px 0 4px 0px; padding-right:0; clear:right!important; margin-right:0!important;}
+
+.two_third { width:622px; float:left; margin:4px 35px 4px 0px; }
+.two_third_last { width:622px; float:left; margin:4px 0 4px 0px; padding-right:0; clear:right!important; margin-right:0!important; }
+
+.three_fourth { width:697px; float:left; margin:4px 35px 4px 0px; }
+.three_fourth_last { width:697px; float:left;margin:4px 0 4px 0px; padding-right:0; clear:right!important;  margin-right:0!important; }
+
+.one_fifth { width:147px; float:left; margin:4px 35px 4px 0px; }
+.one_fifth_last { width:147px; float:left; margin:4px 0 4px 0px; padding-right:0; clear:right!important; margin-right:0!important; }
+
+.four_fifth { width:747px; float:left; margin:4px 35px 4px 0px; }
+.four_fifth_last { width:747px; float:left;margin:4px 0 4px 0px; padding-right:0; clear:right!important; margin-right:0!important; }
+
+.one_sixth { width:113px; float:left; margin:4px 35px 4px 0px; }
+.one_sixth_last { width:113px; float:left; margin:4px 0 4px 0px; padding-right:0; clear:right!important; margin-right:0!important; }
+
+.five_sixth { width:790px; float:left; margin:4px 35px 4px 0px; }
+.five_sixth_last { width:790px; float:left; margin:4px 0 4px 0px; padding-right:0; clear:right!important; margin-right:0!important; }
+
+.two-third-width .one_half { width:285px; float:left; margin:4px 25px 4px 0px;  }
+.two-third-width .one_half_last { width:285px; float:left; margin:4px 0 4px 0px; padding-right:0; clear:right!important; margin-right:0!important; }
+
+.two-third-width .one_third { width:180px; float:left; margin:4px 25px 4px 0px;  text-align: justify;}
+.two-third-width .one_third_last { width:180px; float:left; margin:4px 0 4px 0px; padding-right:0; clear:right!important; margin-right:0!important;}
+
+.two-third-width .one_fourth { width:130px; float:left; margin:4px 25px 4px 0px; }
+.two-third-width .one_fourth_last { width:130px; float:left;  margin:4px 0 4px 0px; padding-right:0; clear:right!important; margin-right:0!important;}
+
+.two-third-width .two_third { width:390px; float:left; margin:4px 25px 4px 0px; }
+.two-third-width .two_third_last { width:390px; float:left; margin:4px 0 4px 0px; padding-right:0; clear:right!important; margin-right:0!important; }
+
+.two-third-width .three_fourth { width:440px; float:left; margin:4px 25px 4px 0px; }
+.two-third-width .three_fourth_last { width:440px; float:left;margin:4px 0 4px 0px; padding-right:0; clear:right!important; margin-right:0!important; }
+
+.two-third-width .one_fifth { width:99px; float:left; margin:4px 25px 4px 0px; }
+.two-third-width .one_fifth_last { width:99px; float:left; margin:4px 0 4px 0px; padding-right:0; clear:right!important; margin-right:0!important; }
+
+.two-third-width .four_fifth { width:475px; float:left; margin:4px 25px 4px 0px; }
+.two-third-width .four_fifth_last { width:475px; float:left;margin:4px 0 4px 0px; padding-right:0; clear:right!important; margin-right:0!important; }
+
+.two-third-width .one_sixth { width:50px; float:left; margin:4px 25px 4px 0px; }
+.two-third-width .one_sixth_last { width:113px; float:left; margin:4px 0 4px 0px; padding-right:0; clear:right!important; margin-right:0!important; }
+
+.two-third-width .five_sixth { width:520px; float:left; margin:4px 25px 4px 0px; }
+.two-third-width .five_sixth_last { width:790px; float:left; margin:4px 0 4px 0px; padding-right:0; clear:right!important; margin-right:0!important; }
+
+
+.margin-5px  { margin:5px; }
+.margin-10px { margin:10px; }
+.margin-15px { margin:15px; }
+.margin-20px { margin:20px; }
+.margin-25px { margin:25px; }
+
+.padding-5px  { padding:5px; }
+.padding-10px { padding:10px; }
+.padding-15px { padding:15px; }
+.padding-20px { padding:20px; }
+.padding-25px { padding:25px; }
+
+/* ================================================================================== */
+/* == Sidebar Structure ============================================================= */
+/* ================================================================================== */
+
+/* == Right Sidebar ========================== */
+
+.hasRightSidebar .two-third-width { float:left; width:630px;}
+.hasRightSidebar .sidebar { float:left; width:350px;  }
+
+/* == Left Sidebar ========================== */
+
+.hasLeftSidebar .two-third-width { float:right; width:630px; }
+.hasLeftSidebar .sidebar { float:left; width:350px;  }
+
+
+
+/* ================================================================================== */
+/* == Home Slider Structure ========================================================= */
+/* ================================================================================== */
+
+
+

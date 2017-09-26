@@ -1,0 +1,16 @@
+One (Introductions): At  work
+John:   Hi, Teresa.
+Teresa: Good morning John. How are you?
+J:      I'm fine thanks. And you?
+T:      Not bad. John, this is Andres, our new colleague.
+J:      Oh hi! Pleased to meet you!
+Andres: Nice to meet you, too.
+T:      Andres is the new maintenance supervisor.
+J:      I see. Welcome aboard.
+J:      Where are you from?
+A:      I'm from Mexico.
+J:      Really?
+A:      Yes. I'm from Mexico City.
+J:      That's an interesting city. Well, it's nice meeting you, Andres. See you later.
+T:      Bye.
+A:      Bye.

@@ -1,0 +1,33 @@
+.field-name-field-img-page img {
+  display: block;
+  margin: 0;
+}
+
+.field-name-field-img-page {
+  float: left;
+  clear: left;
+  padding-left: 10px;
+  padding: 10px 10px 0 0;
+}
+
+
+
+
+
+
+
+.init-colorbox-processed-processed img {
+display: block;
+margin: 0;
+}
+
+.init-colorbox-processed-processed {
+
+display: inline;
+float:left;
+align: center;
+  padding: 6px 6px 0 0;
+
+
+
+}

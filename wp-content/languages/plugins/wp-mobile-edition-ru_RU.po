@@ -1,0 +1,659 @@
+# Translation of Stable (latest release) in Russian
+# This file is distributed under the same license as the Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-12-09 12:23:22+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Stable (latest release)\n"
+
+#: admin/includes/mobile_themes/mTheme-Unus/functions.php:175
+msgid "%1$s at %2$s"
+msgstr "%1$s к %2$s"
+
+#: admin/class-public.php:662
+msgid "<strong>Could not install file</strong> to %s."
+msgstr "<strong>Не удалось установить файл</strong> в %s."
+
+#: admin/class-public.php:637
+msgid "<strong>Could not install theme files</strong> to "
+msgstr "<strong>Невозможно установить файлы темы</strong> в "
+
+#: admin/class-public.php:614
+msgid "<strong>Not able to install theme files</strong> to %s."
+msgstr "<strong>Невозможно установить файлы темы</strong> в %s."
+
+#: admin/class-public.php:595
+msgid "<strong>PHP</strong> versions less than <code>%1s</code> are not supported by this plugin, and you have version <code>%2s</code>"
+msgstr "<strong>PHP</strong> версии ниже <code>%1s</code> не поддерживает данный плагин. Ваша версия <code>%2s</code>"
+
+#: admin/page-p2.php:62
+msgid "<strong>Warning:</strong> your primary desktop and mobile domains are the same. The switcher will default to 'browser detection' mode unless one is changed."
+msgstr "<strong>Предупреждение:</strong> ваш основной и мобильный домены одинаковы. Переключатель будет по умолчанию в режиме \"обнаружения\" браузера пока вы не измените."
+
+#: admin/class-public.php:600
+msgid "<strong>WordPress</strong> versions less than <code>%1s</code> are not supported by this plugin, and you have version <code>%2s</code>"
+msgstr "<strong>WordPress</strong> версии ниже <code>%1s</code> не поддерживают данный плагин. Ваша версия <code>%2s</code>"
+
+#: admin/class-widgets.php:9
+msgid "A QR-Code used for navigating to a mobile URL. A link that allows users to toggle between desktop and mobile sites."
+msgstr "QR-Код используется для перехода к ссылке на мобильную версию сайта. Ссылка позволяет пользователям переключаться между версиями для ПК и мобильных устройств"
+
+#: admin/fdx-functions.php:57
+msgid "Add New"
+msgstr "Добавить новую"
+
+#: admin/fdx-functions.php:58
+msgid "Add New Mobile Page"
+msgstr "Добавить новую страницу для моб. устройств"
+
+#: admin/page-p3.php:147
+msgid "Ads"
+msgstr "Реклама"
+
+#: admin/page-p3.php:200
+msgid "Advanced"
+msgstr "Дополнительно"
+
+#: admin/includes/mobile_themes/mTheme-Unus/functions.php:31
+#: admin/includes/mobile_themes/mTheme-Unus/functions.php:33
+#: admin/includes/mobile_themes/mTheme-Unus/functions.php:35
+msgid "Archive"
+msgstr "Архив"
+
+#: admin/includes/mobile_themes/mTheme-Unus/functions.php:39
+msgid "Author"
+msgstr "Автор"
+
+#: admin/page-p3.php:97
+msgid "Auto resizable for"
+msgstr "Автоматическое изменение размера для"
+
+#: admin/p3/mTheme-Unus.php:35
+msgid "Blog Index"
+msgstr "Содержание"
+
+#: admin/page-p3.php:156
+msgid "Bottom Advertisement"
+msgstr "Реклама внизу"
+
+#: admin/class-public.php:496
+msgid "Browser Detection"
+msgstr "Определение браузера"
+
+#: admin/includes/mobile_themes/mTheme-Unus/header.php:123
+#: admin/p3/mTheme-Unus.php:33
+msgid "Categories"
+msgstr "Категории"
+
+#: admin/includes/mobile_themes/mTheme-Unus/functions.php:27
+msgid "Category"
+msgstr "Категория"
+
+#: admin/page-p1.php:25 admin/page-p1.php:80 admin/page-p2.php:23
+#: admin/page-p3.php:35 admin/page-p3.php:57 admin/page-p3.php:200
+#: admin/sidebar-left.php:15 admin/sidebar-left.php:27
+msgid "Click to toggle"
+msgstr "Нажмите для переключения"
+
+#: admin/includes/mobile_themes/mTheme-Unus/comments.php:91
+msgid "Comment"
+msgstr "Комментарий"
+
+#: admin/includes/mobile_themes/mTheme-Unus/single.php:46
+msgid "Comments"
+msgstr "Комментарии"
+
+#: admin/includes/mobile_themes/mTheme-Unus/comments.php:50
+msgid "Comments are closed"
+msgstr "Комментарии закрыты"
+
+#: admin/page-p3.php:134
+msgid "Compatibility"
+msgstr "Совместимость"
+
+#: admin/includes/mobile_themes/mTheme-Unus/inc/p-contact.php:79
+msgid "Contact"
+msgstr "Контакт"
+
+#: admin/p3/mTheme-Unus.php:36 admin/page-p3.php:169
+msgid "Contact Page"
+msgstr "Контакты"
+
+#: admin/class-admin.php:157 admin/class-admin.php:158 admin/page-p1.php:9
+#: admin/page-p1.php:34 admin/page-p2.php:7 admin/page-p2.php:23
+#: admin/page-p3.php:10
+msgid "Core Settings"
+msgstr "Основные настройки"
+
+#: admin/class-public.php:174
+msgid "Critical <strong>%s</strong> Issue"
+msgstr "Критическая <strong>%s</strong> ошибка"
+
+#: admin/page-p3.php:66
+msgid "Custom"
+msgstr "Дополнительно"
+
+#: admin/page-p3.php:204
+msgid "Custom Code"
+msgstr "Дополнительный код"
+
+#: admin/p3/mTheme-Unus.php:32
+msgid "Custom navigation menus"
+msgstr "Пользовательское меню навигации"
+
+#: admin/class-admin.php:148 admin/class-admin.php:174 admin/page-p1.php:8
+#: admin/page-p2.php:6 admin/page-p3.php:9
+msgid "Dashboard"
+msgstr "Панель управления"
+
+#: admin/class-public.php:176
+msgid "Deactivate and re-activate the <strong>%s</strong> once resolved."
+msgstr "Отключите и подключите <strong>%s</strong> повторно."
+
+#: admin/page-p2.php:46
+msgid "Desktop users will receive "
+msgstr "Пользователь ПК видит так"
+
+#: admin/class-public.php:495
+msgid "Disabled"
+msgstr "Отключено"
+
+#: admin/sidebar-left.php:5
+msgid "Do you like this Plugin? Rate"
+msgstr "Вам понравился этот плагин? Оцените"
+
+#: admin/includes/mobile_themes/mTheme-Unus/comments.php:82
+msgid "E-mail"
+msgstr "E-mail"
+
+#: admin/fdx-functions.php:59
+msgid "Edit Mobile Page"
+msgstr "Редактировать страницу для моб. устройств"
+
+#: admin/page-p2.php:78
+msgid "Enable Manual Switcher Link whilst on Desktop"
+msgstr "Активизировать возможность ручного переключения на версию для ПК"
+
+#: admin/page-p2.php:34
+msgid "Enable Switcher mode for tablets"
+msgstr "Активировать переключение на планшетах"
+
+#: admin/page-p3.php:229 admin/page-p3.php:231
+msgid "Enable the Function"
+msgstr "Активировать функцию"
+
+#: admin/page-p3.php:208 admin/page-p3.php:214
+msgid "End of"
+msgstr "Конец"
+
+#: admin/page-p3.php:137
+msgid "Enter a comma separated list of shortcodes to remove, without"
+msgstr "Введите, разделяя запятой, перечень шорткодов для удаления, без"
+
+#: admin/page-p3.php:118
+msgid "Enter your URL if you have one. (include http://)"
+msgstr "Введите вашу ссылку, если есть. (включая http://)"
+
+#: admin/page-p3.php:177 admin/page-p3.php:178 admin/page-p3.php:179
+msgid "Extra fields"
+msgstr "Дополнительные поля"
+
+#: admin/page-p3.php:171
+msgid "Extra fields to Contact Form"
+msgstr "Дополнительные поля для контактной формы"
+
+#: admin/page-p3.php:62
+msgid "Front page displays"
+msgstr "Главная страница показывает"
+
+#: admin/page-p3.php:57
+msgid "General"
+msgstr "Главное"
+
+#: admin/sidebar-left.php:20
+msgid "Help translating it"
+msgstr "Помогите перевести"
+
+#: admin/sidebar-left.php:6
+msgid "Hide this message"
+msgstr "Скрыть данное сообщение"
+
+#: admin/class-widgets.php:86
+msgid "If you leave this blank, the URL in the barcode will be dynamic, and will be the mobile equivalent of the actual page the user is on."
+msgstr "Если вы оставить это поле пустым, ссылка в штрих-коде будет динамической и будет представлять собой мобильный эквивалент той страницы. где на данный момент находится пользователь. "
+
+#: admin/class-public.php:181
+msgid "Important <strong>%s</strong> Notice"
+msgstr "Важное <strong>%s</strong> Напоминание"
+
+#: admin/includes/mobile_themes/mTheme-Unus/inc/p-index.php:2
+msgid "Index"
+msgstr "Индекс"
+
+#: admin/page-p3.php:118 admin/page-p3.php:149 admin/page-p3.php:171
+#: admin/page-p3.php:206
+msgid "Leave blank to disable"
+msgstr "Оставьте пустым, чтобы отключить"
+
+#: admin/includes/mobile_themes/mTheme-Unus/comments.php:73
+msgid "Logout"
+msgstr "Выйти"
+
+#: admin/includes/mobile_themes/mTheme-Unus/header.php:105
+msgid "Menu"
+msgstr "Меню"
+
+#: admin/fdx-functions.php:56
+msgid "Mobile Page"
+msgstr "Страница для мобильного устройства"
+
+#: admin/fdx-functions.php:55 admin/page-p3.php:66
+msgid "Mobile Pages"
+msgstr "Страницы для мобильных устройств"
+
+#: admin/page-p2.php:57
+msgid "Mobile Subdomain"
+msgstr "Субдомен для мобильных устройств"
+
+#: admin/page-p2.php:42
+msgid "Mobile Theme"
+msgstr "Тема для мобильных устройств"
+
+#: admin/page-p1.php:80
+msgid "Mobile Themes"
+msgstr "Темы для мобильных устройств"
+
+#: admin/page-p1.php:45
+msgid "Mobile Themes Compatibles"
+msgstr "Совместимость с темами для мобильных устройств"
+
+#: admin/includes/mobile_themes/mTheme-Unus/header.php:19
+#: admin/includes/mobile_themes/mTheme-Unus/header.php:34
+msgid "Mobile Version"
+msgstr "Мобильная версия"
+
+#: admin/includes/mobile_themes/mTheme-Unus/comments.php:78
+msgid "Name"
+msgstr "Имя"
+
+#: admin/fdx-functions.php:60
+msgid "New Mobile Page"
+msgstr "Новая страница для моб. устройств"
+
+#: admin/includes/mobile_themes/mTheme-Unus/inc/index-blog.php:34
+#: admin/includes/mobile_themes/mTheme-Unus/inc/index-mobile.php:52
+msgid "No items found"
+msgstr "Ничего не найдено"
+
+#: admin/fdx-functions.php:63
+msgid "Nothing found"
+msgstr "Ничего не найдено"
+
+#: admin/includes/mobile_themes/mTheme-Unus/inc/index-blog.php:28
+msgid "Nothing found for"
+msgstr "Ничего не найдено для "
+
+#: admin/fdx-functions.php:64
+msgid "Nothing found in Trash"
+msgstr "В корзине ничего не найдено"
+
+#: admin/page-p1.php:34
+msgid "Or"
+msgstr "или"
+
+#: admin/class-widgets.php:51
+msgid "Our Mobile Site"
+msgstr "Мобильная версия нашего сайта"
+
+#: admin/page-p1.php:25
+msgid "Overview"
+msgstr "Просмотр"
+
+#: admin/includes/mobile_themes/mTheme-Unus/header.php:18
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: admin/includes/mobile_themes/mTheme-Unus/404.php:4
+msgid "Page not found"
+msgstr "Страница не найдена"
+
+#: admin/includes/mobile_themes/mTheme-Unus/functions.php:155
+msgid "Pingback:"
+msgstr "Пингбэк:"
+
+#: admin/class-public.php:662
+msgid "Please ensure that the web server has write- access to that file."
+msgstr "Убедитесь, что веб-сервер имеет доступ на запись в этот файл."
+
+#: admin/class-public.php:614 admin/class-public.php:637
+msgid "Please ensure that the web server has write- and execute-access to it."
+msgstr "Убедитесь, что у сервера установлены права на запись и выполнение данного запроса"
+
+#: admin/includes/mobile_themes/mTheme-Unus/comments.php:94
+msgid "Post Comment"
+msgstr "Опубликовать комментарий"
+
+#: admin/class-widgets.php:79
+msgid "QR-Code Size"
+msgstr "Размер QR-Кода"
+
+#: admin/class-widgets.php:84
+msgid "QR-Code URL"
+msgstr "Ссылка QR-Кода"
+
+#: admin/class-widgets.php:8
+msgid "QR-Code | Switcher Link"
+msgstr "QR-Код | Переключить"
+
+#: admin/sidebar-left.php:21
+msgid "Rate the plugin 5 star on WordPress"
+msgstr "Поставить плагину 5 звезд на WordPress"
+
+#: admin/page-p1.php:35
+msgid "Regardless of this setting, the switcher link will always appear on the mobile theme"
+msgstr "Независимо от значения этого параметра, ссылка на переключатель всегда будет появляться в мобильной теме"
+
+#: admin/page-p3.php:136
+msgid "Remove these Shortcodes"
+msgstr "Удалить данный шорткод"
+
+#: admin/sidebar-left.php:19
+msgid "Report a Bug"
+msgstr "Сообщить об ошибке"
+
+#: admin/page-p3.php:174 admin/page-p3.php:175 admin/page-p3.php:176
+msgid "Required fields"
+msgstr "Поля, обязательные для заполнения"
+
+#: admin/page-p2.php:98 admin/page-p3.php:257
+msgid "Restore Default Settings?"
+msgstr "Восстановить значения по умолчанию?"
+
+#: admin/page-p2.php:98 admin/page-p3.php:257
+msgid "Restore Defaults"
+msgstr "Восстановить значения по умолчанию"
+
+#: admin/includes/mobile_themes/mTheme-Unus/functions.php:25
+msgid "Results for"
+msgstr "Результаты для"
+
+#: admin/page-p2.php:94 admin/page-p3.php:250
+msgid "Save all options"
+msgstr "Сохранить всё"
+
+#: admin/includes/mobile_themes/mTheme-Unus/header.php:93
+msgid "Search"
+msgstr "Поиск"
+
+#: admin/fdx-functions.php:62
+msgid "Search Mobile Page"
+msgstr "Поиск моб. страницы"
+
+#: admin/includes/mobile_themes/mTheme-Unus/inc/p-contact.php:134
+msgid "Send message"
+msgstr "Отправить сообщение"
+
+#: admin/page-p2.php:59
+msgid "Setting up a subdomain is done through your hosting provider"
+msgstr "Настройка субдомена осуществляется через вашего хостинг-провайдера"
+
+#: admin/page-p3.php:35
+msgid "Settings"
+msgstr "Настройки"
+
+#: admin/class-public.php:440 admin/page-p3.php:17
+msgid "Settings Updated"
+msgstr "Функции обновлены"
+
+#: admin/page-p3.php:83
+msgid "Site Logo"
+msgstr "Лого сайта"
+
+#: admin/page-p3.php:81
+msgid "Site Logo / Bookmark Icons"
+msgstr "Лого сайта / Иконки закладок"
+
+#: admin/p3/mTheme-Unus.php:34
+msgid "Site Search"
+msgstr "Поиск по сайту"
+
+#: admin/page-p3.php:116
+msgid "Social Links"
+msgstr "Ссылки из социальных сетей"
+
+#: admin/page-p1.php:68
+msgid "Sorry, no theme found."
+msgstr "Извините, тем не найдено"
+
+#: admin/page-p3.php:206
+msgid "Statistics"
+msgstr "Статистика"
+
+#: admin/class-public.php:497
+msgid "Subdomain"
+msgstr "Субдомен"
+
+#: admin/page-p2.php:59
+msgid "Subdomain for your mobile site"
+msgstr "Субдомен для вашего мобильного сайта"
+
+#: admin/sidebar-left.php:18
+msgid "Suggest a Feature"
+msgstr "Предложить функцию"
+
+#: admin/class-public.php:250
+msgid "Switch to Desktop Version"
+msgstr "Переключиться на версию для ПК"
+
+#: admin/class-public.php:235 admin/class-public.php:253
+msgid "Switch to Mobile Version"
+msgstr "Переключиться на мобильную версию"
+
+#: admin/page-p2.php:29
+msgid "Switcher Mode"
+msgstr "Переключатель режима"
+
+#: admin/page-p1.php:30
+msgid "Switching Shortcodes"
+msgstr "Переключить шорткоды"
+
+#: admin/includes/mobile_themes/mTheme-Unus/functions.php:29
+msgid "Tag"
+msgstr "Тэг"
+
+#: admin/includes/mobile_themes/mTheme-Unus/inc/p-contact.php:84
+msgid "Thanks"
+msgstr "Спасибо"
+
+#: admin/class-public.php:606
+msgid "That directory does not exist."
+msgstr "Директории не существует"
+
+#: admin/class-public.php:610
+msgid "That directory is not executable."
+msgstr "Директория не выполнима"
+
+#: admin/class-public.php:608
+msgid "That directory is not writable."
+msgstr "Директория не имеет прав на запись"
+
+#: admin/page-p2.php:44
+msgid "The theme that will be sent to a mobile user."
+msgstr "Тема, которая будет отображаться у пользователя мобильного устройства"
+
+#: admin/p3/mTheme-Unus.php:3
+msgid "Theme Choices"
+msgstr "Варианты темы"
+
+#: admin/class-admin.php:165 admin/class-admin.php:166 admin/page-p1.php:10
+#: admin/page-p2.php:8 admin/page-p3.php:11
+msgid "Theme Settings"
+msgstr "Функции темы"
+
+#: admin/page-p2.php:76
+msgid "Theme Switch Link"
+msgstr "Ссылка для переключения тем"
+
+#: admin/includes/mobile_themes/mTheme-Unus/inc/index-blog.php:35
+#: admin/includes/mobile_themes/mTheme-Unus/inc/index-mobile.php:53
+msgid "There are currently no items to display. Please check back soon."
+msgstr "В настоящее время нет объектов для отображения. Пожалуйста, попробуйте позже."
+
+#: admin/includes/mobile_themes/mTheme-Unus/comments.php:8
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Этот пост защещен паролем. Введите пароль для просмотра и комментирования."
+
+#: admin/page-p3.php:41
+msgid "This theme is incompatible!"
+msgstr "Эта тема несовместима!"
+
+#: admin/class-widgets.php:74
+msgid "Title:"
+msgstr "Заголовок"
+
+#: admin/page-p3.php:150
+msgid "Top Advertisement"
+msgstr "Реклама в шапке"
+
+#: admin/includes/mobile_themes/mTheme-Unus/inc/index-blog.php:29
+msgid "Try performing a different search"
+msgstr "Попробуйте использовать другой запрос"
+
+#: admin/page-p1.php:33
+msgid "Use the following shortcode in templates themes to show the theme switch link"
+msgstr "Используйте следующий код в шаблоне темы для отображения ссылки на мобильную версию сайта"
+
+#: admin/page-p1.php:32
+msgid "Use the following shortcode to show the theme switch link"
+msgstr "Используйте следующий код для показа переключателя"
+
+#: admin/page-p1.php:45
+msgid "Version"
+msgstr "Версия"
+
+#: admin/fdx-functions.php:61
+msgid "View Mobile Page"
+msgstr "Просмотр страницы для моб. устройств"
+
+#: admin/includes/mobile_themes/mTheme-Unus/single.php:19
+msgid "View all posts in %s"
+msgstr "Посмотреть все посты %s"
+
+#: admin/sidebar-left.php:5
+msgid "Vote & Rate Now"
+msgstr "Проголосовать и оценить"
+
+#: admin/page-p3.php:227
+msgid "WP Themes Function"
+msgstr "Функции темы WP"
+
+#: admin/includes/mobile_themes/mTheme-Unus/comments.php:87
+msgid "Website"
+msgstr "Вебсайт"
+
+#: admin/includes/mobile_themes/mTheme-Unus/comments.php:73
+msgid "Welcome"
+msgstr "Добро пожаловать"
+
+#: admin/page-p3.php:149
+msgid "You can enter your Mobile AdSense here or insert your own banner ad code. These boxes accept both javascript & html. We suggest sizing ads either 298x70px or below."
+msgstr "Вы можете указать код из AdSense для мобильных устройств или добавить собственный код. Данные поля поддерживают javascript & html. Поддерживается размер 298*70px или меньше"
+
+#: admin/includes/mobile_themes/mTheme-Unus/comments.php:65
+msgid "You must be"
+msgstr "Вы должно быть"
+
+#: admin/class-public.php:482
+msgid "You must provide the mobile domain. Switching has been disabled."
+msgstr "Необходимо подключить домен для мобильных устройств. Переключение не активно."
+
+#: admin/includes/mobile_themes/mTheme-Unus/functions.php:181
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает проверки."
+
+#: admin/page-p3.php:65
+msgid "Your latest posts"
+msgstr "Ваш последний пост"
+
+#: admin/includes/mobile_themes/mTheme-Unus/inc/p-contact.php:85
+msgid "Your message has been sent successfully"
+msgstr "Ваше сообщение успешно отправлено"
+
+#: admin/includes/mobile_themes/mTheme-Unus/single.php:10
+msgid "comments"
+msgstr "комментарии"
+
+#: admin/page-p2.php:59
+msgid "i.e."
+msgstr "и т.д."
+
+#: admin/page-p3.php:96
+msgid "iPhone & iPod Touch Icon"
+msgstr "Иконки iPhone и iPod Touch"
+
+#: admin/page-p3.php:103
+msgid "icon"
+msgstr "иконка"
+
+#: admin/page-p2.php:59
+msgid "learn more"
+msgstr "читать далее"
+
+#: admin/includes/mobile_themes/mTheme-Unus/comments.php:65
+msgid "logged in"
+msgstr "авторизован"
+
+#: admin/includes/mobile_themes/mTheme-Unus/footer.php:5
+#: admin/includes/mobile_themes/mTheme-Unus/single-mobile.php:33
+#: admin/includes/mobile_themes/mTheme-Unus/single.php:3
+#: admin/includes/mobile_themes/mTheme-Unus/single.php:37
+msgid "next"
+msgstr "далее"
+
+#: admin/sidebar-left.php:5
+msgid "on"
+msgstr "на"
+
+#: admin/page-p1.php:34
+msgid "or auto added in"
+msgstr "или автоматически добавьте в"
+
+#: admin/page-p3.php:83
+msgid "or less"
+msgstr "или меньше"
+
+#: admin/includes/mobile_themes/mTheme-Unus/page.php:9
+msgid "pages"
+msgstr "страницы"
+
+#: admin/class-widgets.php:79 admin/page-p3.php:83 admin/page-p3.php:90
+#: admin/page-p3.php:96 admin/page-p3.php:97 admin/page-p3.php:103
+msgid "pixels"
+msgstr "пикселей"
+
+#: admin/includes/mobile_themes/mTheme-Unus/footer.php:5
+#: admin/includes/mobile_themes/mTheme-Unus/single-mobile.php:29
+#: admin/includes/mobile_themes/mTheme-Unus/single.php:3
+#: admin/includes/mobile_themes/mTheme-Unus/single.php:33
+msgid "prev"
+msgstr "назад"
+
+#: admin/includes/mobile_themes/mTheme-Unus/attachment.php:3
+msgid "return"
+msgstr "вернуться"
+
+#: admin/page-p3.php:103
+msgid "tile color"
+msgstr "цвет плитки"
+
+#: admin/includes/mobile_themes/mTheme-Unus/comments.php:65
+msgid "to post a comment"
+msgstr "опубликовать комментарий"
+
+#: admin/includes/mobile_themes/mTheme-Unus/footer.php:9
+msgid "top"
+msgstr "топ"

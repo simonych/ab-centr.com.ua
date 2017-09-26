@@ -1,0 +1,15 @@
+Five (The weather, seasons, months and days): At a coffee shop
+Jim:      I need some hot coffee. I'm so cold!
+An:       I know. I think my feet are frozen.
+Waitress: Are you ready to order?
+J:        Yes, some coffee, please.
+A:        Tea with lemon for me, please.
+W:        Cream and sugar with your coffee, sir?
+J:        Yes, please.
+W:        Just a minute.
+J:        What's the weather forecast for today?
+A:        Chance of snow and temperatures in the teens until Tuesday. Oh, no! How can you stand Boston winters?
+J:        Good question. I bet you miss Vietnam. What's the weather like there now?
+A:        Around seventy degrees. It's warm in January, but it rains a lot.
+J:        Well, I prefer rain to snow and ice.
+W:        Here's your coffee and tea. I hope it warms you up! 

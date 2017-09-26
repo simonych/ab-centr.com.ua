@@ -1,0 +1,515 @@
+<site>
+ <posts>
+  <post caption="Post 2" categories="" dateModified="07/23/2012 15:17:23" name="post-2" status="published" tags="" title="Conse ctetur">
+   <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="padding-right: 10px;padding-left: 10px; width:100%" &gt;
+        &lt;div class="image-caption-wrapper" style="width: 55%; float: left"&gt;&lt;img alt="an image" style="width: 100%" class="art-lightbox" src="shutterstock_32050237.png"&gt;&lt;/div&gt;
+        Lorem&amp;nbsp;&lt;sup&gt;superscript&lt;/sup&gt;&amp;nbsp;dolor&amp;nbsp;&lt;sub&gt;subscript&lt;/sub&gt;&amp;nbsp;amet, consectetuer adipiscing elit,&amp;nbsp;&lt;a href="#" title="test link"&gt;test link&lt;/a&gt;. Nullam dignissim convallis est. Quisque aliquam.&amp;nbsp;&lt;cite&gt;cite&lt;/cite&gt;. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.&amp;nbsp;
+        &lt;p&gt;Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy.&amp;nbsp;&lt;abbr title="National Basketball Association"&gt;NBA&lt;/abbr&gt;&amp;nbsp;Mauris a ante.&amp;nbsp;&lt;/p&gt;
+        &lt;p&gt;Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.&amp;nbsp;&lt;abbr title="Avenue"&gt;AVE&lt;/abbr&gt;&lt;br&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="padding-right: 10px;padding-left: 10px; width:100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="padding-right: 10px;padding-left: 10px; width:100%" &gt;
+        &lt;div class="image-caption-wrapper" style="width: 55%; float: left"&gt;&lt;img alt="an image" style="width: 100%" class="art-lightbox" src="shutterstock_32050237.png"&gt;&lt;/div&gt;
+        Lorem&amp;nbsp;&lt;sup&gt;superscript&lt;/sup&gt;&amp;nbsp;dolor&amp;nbsp;&lt;sub&gt;subscript&lt;/sub&gt;&amp;nbsp;amet, consectetuer adipiscing elit,&amp;nbsp;&lt;a href="#" title="test link"&gt;test link&lt;/a&gt;. Nullam dignissim convallis est. Quisque aliquam.&amp;nbsp;&lt;cite&gt;cite&lt;/cite&gt;. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.&amp;nbsp;
+        &lt;p&gt;Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy.&amp;nbsp;&lt;abbr title="National Basketball Association"&gt;NBA&lt;/abbr&gt;&amp;nbsp;Mauris a ante.&amp;nbsp;&lt;/p&gt;
+        &lt;p&gt;Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.&amp;nbsp;&lt;abbr title="Avenue"&gt;AVE&lt;/abbr&gt;&lt;br&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+    </contents>
+   </layout>
+   <pageHead></pageHead>
+  </post>
+  <post caption="Post" categories="" dateModified="07/23/2012 15:17:12" name="post" status="published" tags="" title="Lorem ipsum">
+   <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="padding-right: 10px;padding-left: 10px; width:100%" &gt;
+        &lt;div class="image-caption-wrapper" style="width: 55%; float: left"&gt;&lt;img alt="an-image" style="width: 100%" class="art-lightbox" src="shutterstock_62287657-01-3.jpg"&gt;&lt;/div&gt;
+        &lt;h1&gt;Heading 1&lt;/h1&gt;
+        &lt;h2&gt;Heading 2&lt;/h2&gt;
+        &lt;h3&gt;Heading 3&lt;/h3&gt;
+        &lt;h4&gt;Heading 4&lt;/h4&gt;
+        &lt;h5&gt;Heading 5&lt;/h5&gt;
+        &lt;h6&gt;Heading 6&lt;/h6&gt;
+        &lt;p&gt;Lorem dolor&amp;nbsp;amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. &lt;cite&gt;cite&lt;/cite&gt;. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.&lt;/p&gt;
+        &lt;blockquote&gt;
+        &lt;p&gt;“This stylesheet is going to help so freaking much.”&lt;br&gt;
+        -Blockquote&lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;ul&gt;
+        &lt;li&gt;List Item 1&lt;/li&gt;
+        &lt;li&gt;List Item 2&lt;/li&gt;
+        &lt;li&gt;List Item 3&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;table class="art-article"&gt;
+        &lt;tbody&gt;
+        &lt;tr&gt;
+        &lt;th&gt;Header&lt;/th&gt;
+        &lt;th&gt;Header&lt;/th&gt;
+        &lt;th&gt;Header&lt;/th&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr class="even"&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;/tbody&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="padding-right: 10px;padding-left: 10px; width:100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="padding-right: 10px;padding-left: 10px; width:100%" &gt;
+        &lt;div class="image-caption-wrapper" style="width: 55%; float: left"&gt;&lt;img alt="an-image" style="width: 100%" class="art-lightbox" src="shutterstock_62287657-01-3.jpg"&gt;&lt;/div&gt;
+        &lt;h1&gt;Heading 1&lt;/h1&gt;
+        &lt;h2&gt;Heading 2&lt;/h2&gt;
+        &lt;h3&gt;Heading 3&lt;/h3&gt;
+        &lt;h4&gt;Heading 4&lt;/h4&gt;
+        &lt;h5&gt;Heading 5&lt;/h5&gt;
+        &lt;h6&gt;Heading 6&lt;/h6&gt;
+        &lt;p&gt;Lorem dolor&amp;nbsp;amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. &lt;cite&gt;cite&lt;/cite&gt;. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.&lt;/p&gt;
+        &lt;blockquote&gt;
+        &lt;p&gt;“This stylesheet is going to help so freaking much.”&lt;br&gt;
+        -Blockquote&lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;ul&gt;
+        &lt;li&gt;List Item 1&lt;/li&gt;
+        &lt;li&gt;List Item 2&lt;/li&gt;
+        &lt;li&gt;List Item 3&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;table class="art-article"&gt;
+        &lt;tbody&gt;
+        &lt;tr&gt;
+        &lt;th&gt;Header&lt;/th&gt;
+        &lt;th&gt;Header&lt;/th&gt;
+        &lt;th&gt;Header&lt;/th&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr class="even"&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;/tbody&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+    </contents>
+   </layout>
+   <pageHead></pageHead>
+  </post>
+ </posts>
+ <pages>
+  <page author="" caption="Home" dateModified="10/19/2012 14:01:38" description="" keywords="" metaTags="" name="home" path="/home" showInHmenu="True" showInVmenu="True" showTitle="True" title="Home" titleInBrowser="Home">
+   <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="padding-right: 10px;padding-left: 10px; width:100%" &gt;
+        &lt;div class="image-caption-wrapper" style="width: 55%; float: left"&gt;&lt;img alt="an image" style="width: 100%; " class="art-lightbox" src="http://www.13e32a39-e3b9-4b99-9438-5ea1aaaef2dd-image.com/.webarchive/79.jpg"&gt;&lt;/div&gt;
+        Enter Page content here...
+        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien ante eget mauris.&amp;nbsp;Aenean sollicitudin imperdiet arcu, vitae dignissim est posuere id.&lt;/p&gt;
+        &lt;p&gt;&lt;a href="#"&gt;Read more&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="padding-right: 10px;padding-left: 10px; width:50%" &gt;
+        &lt;ul&gt;
+        &lt;li&gt;Suspendisse pharetra auctor pharetra. Nunc a sollicitudin est.&lt;/li&gt;
+        &lt;li&gt;Donec vel neque in neque porta venenatis sed sit amet lectus.&lt;/li&gt;
+        &lt;li&gt;Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed.&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell" style="padding-right: 10px;padding-left: 10px; width:50%" &gt;
+        &lt;blockquote style="margin: 10px 0"&gt;Nunc a sollicitudin est. Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed. Donec vel neque in neque porta venenatis sed sit amet lectus.&lt;/blockquote&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="padding-right: 10px;padding-left: 10px; width:100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="padding-right: 10px;padding-left: 10px; width:50%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="art-layout-cell" style="padding-right: 10px;padding-left: 10px; width:50%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="padding-right: 10px;padding-left: 10px; width:100%" &gt;
+        &lt;div class="image-caption-wrapper" style="width: 55%; float: left"&gt;&lt;img alt="an image" style="width: 100%; " class="art-lightbox" src="http://www.13e32a39-e3b9-4b99-9438-5ea1aaaef2dd-image.com/.webarchive/79.jpg"&gt;&lt;/div&gt;
+        Enter Page content here...
+        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien ante eget mauris.&amp;nbsp;Aenean sollicitudin imperdiet arcu, vitae dignissim est posuere id.&lt;/p&gt;
+        &lt;p&gt;&lt;a href="#"&gt;Read more&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="padding-right: 10px;padding-left: 10px; width:50%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell" style="padding-right: 10px;padding-left: 10px; width:50%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+     <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="padding-right: 10px;padding-left: 10px; width:100%" &gt;
+        &lt;ul&gt;
+        &lt;li&gt;Suspendisse pharetra auctor pharetra. Nunc a sollicitudin est.&lt;/li&gt;
+        &lt;li&gt;Donec vel neque in neque porta venenatis sed sit amet lectus.&lt;/li&gt;
+        &lt;li&gt;Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed.&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="padding-right: 10px;padding-left: 10px; width:50%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell" style="padding-right: 10px;padding-left: 10px; width:50%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+     <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="padding-right: 10px;padding-left: 10px; width:100%" &gt;
+        &lt;blockquote style="margin: 10px 0"&gt;Nunc a sollicitudin est. Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed. Donec vel neque in neque porta venenatis sed sit amet lectus.&lt;/blockquote&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="padding-right: 10px;padding-left: 10px; width:50%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell" style="padding-right: 10px;padding-left: 10px; width:50%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+    </contents>
+   </layout>
+   <pageHead></pageHead>
+   <pages>
+    <page author="" caption="Subpage 1" dateModified="10/18/2012 17:57:15" description="" keywords="" metaTags="" name="new-page" path="/home/new-page" showInHmenu="True" showInVmenu="True" showTitle="True" title="Subpage 1" titleInBrowser="Subpage 1">
+     <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="padding-right: 10px;padding-left: 10px; width:100%" &gt;
+        &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+     <layout>
+      <struct>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="padding-right: 10px;padding-left: 10px; width:100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+      <contents>
+       <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="padding-right: 10px;padding-left: 10px; width:100%" &gt;
+        &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+      </contents>
+     </layout>
+     <pageHead></pageHead>
+    </page>
+    <page author="" caption="Subpage 2" dateModified="07/13/2012 12:26:24" description="" keywords="" metaTags="" name="new-page-2" path="/home/new-page-2" showInHmenu="True" showInVmenu="True" showTitle="True" title="Subpage 2" titleInBrowser="Subpage 2">
+     <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="padding-right: 10px;padding-left: 10px; width:100%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+     <layout>
+      <struct>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="padding-right: 10px;padding-left: 10px; width:100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+      <contents>
+       <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="padding-right: 10px;padding-left: 10px; width:100%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+      </contents>
+     </layout>
+     <pageHead></pageHead>
+    </page>
+    <page author="" caption="Subpage 3" dateModified="07/13/2012 12:26:28" description="" keywords="" metaTags="" name="new-page-3" path="/home/new-page-3" showInHmenu="True" showInVmenu="True" showTitle="True" title="Subpage 3" titleInBrowser="Subpage 3">
+     <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="padding-right: 10px;padding-left: 10px; width:100%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+     <layout>
+      <struct>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="padding-right: 10px;padding-left: 10px; width:100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+      <contents>
+       <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="padding-right: 10px;padding-left: 10px; width:100%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+      </contents>
+     </layout>
+     <pageHead></pageHead>
+    </page>
+   </pages>
+  </page>
+  <page author="" caption="Blog" dateModified="01/01/0001 00:00:00" description="" keywords="" metaTags="" name="blog" path="/blog" posts_page="true" showInHmenu="True" showInVmenu="True" showTitle="True" title="Blog Page" titleInBrowser="Blog Page">
+   <content>&lt;article class="art-post art-article"&gt;
+                                &lt;h2 class="art-postheader"&gt;&lt;a href="#"&gt;Conse ctetur&lt;/a&gt;
+                                &lt;/h2&gt;
+                                                &lt;div class="art-postheadericons art-metadata-icons"&gt;
+                    &lt;span class="art-postdateicon"&gt;&lt;/span&gt;
+                     | &lt;span class="art-postauthoricon"&gt; &lt;a href="#" title="Posts by Admin"&gt;Admin&lt;/a&gt;&lt;/span&gt;
+                     | &lt;span class="art-postpdficon"&gt;&lt;/span&gt;
+                     | &lt;span class="art-postprinticon"&gt;&lt;/span&gt;
+                     | &lt;span class="art-postemailicon"&gt;&lt;/span&gt;
+                     | &lt;span class="art-postediticon"&gt;&lt;/span&gt;
+                                    &lt;/div&gt;
+                &lt;div class="art-postcontent art-postcontent-0 clearfix" &gt;
+&lt;div class="art-content-layout"&gt;
+&lt;div class="art-content-layout-row"&gt;
+&lt;div class="art-layout-cell" style="padding-right: 10px;padding-left: 10px; width:100%"&gt;
+&lt;div class="image-caption-wrapper" style="width: 55%; float: left"&gt;&lt;img alt="an image" style="width: 100%" class="art-lightbox" src="shutterstock_32050237.png"&gt;&lt;/div&gt;
+Lorem&amp;nbsp;&lt;sup&gt;superscript&lt;/sup&gt;&amp;nbsp;dolor&amp;nbsp;&lt;sub&gt;subscript&lt;/sub&gt;&amp;nbsp;amet, consectetuer adipiscing elit,&amp;nbsp;&lt;a href="#" title="test link"&gt;test link&lt;/a&gt;. Nullam dignissim convallis est. Quisque aliquam.&amp;nbsp;&lt;cite&gt;cite&lt;/cite&gt;. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.&amp;nbsp;
+&lt;p&gt;Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;br /&gt;&lt;a href="#"&gt;Далее...&lt;/a&gt;
+                &lt;/div&gt;
+                                &lt;div class="art-postfootericons art-metadata-icons"&gt;
+                    &lt;span class="art-postcategoryicon"&gt;Category: No Category&lt;/span&gt;
+                     | &lt;span class="art-posttagicon"&gt;Tags: &lt;a href="#" title="link"&gt;link&lt;/a&gt;, &lt;a href="#" title="visited link" class="visited"&gt;visited&lt;/a&gt;, &lt;a href="#" title="hovered link" class="hover"&gt;hovered&lt;/a&gt;&lt;/span&gt;
+                     | &lt;span class="art-postcommentsicon"&gt;&lt;a href="#" title="Comments"&gt;No Comments &amp;#187;&lt;/a&gt;&lt;/span&gt;
+                                    &lt;/div&gt;
+                &lt;/article&gt;
+&lt;article class="art-post art-article"&gt;
+                                &lt;h2 class="art-postheader"&gt;&lt;a href="#"&gt;Lorem ipsum&lt;/a&gt;
+                                &lt;/h2&gt;
+                                                &lt;div class="art-postheadericons art-metadata-icons"&gt;
+                    &lt;span class="art-postdateicon"&gt;&lt;/span&gt;
+                     | &lt;span class="art-postauthoricon"&gt; &lt;a href="#" title="Posts by Admin"&gt;Admin&lt;/a&gt;&lt;/span&gt;
+                     | &lt;span class="art-postpdficon"&gt;&lt;/span&gt;
+                     | &lt;span class="art-postprinticon"&gt;&lt;/span&gt;
+                     | &lt;span class="art-postemailicon"&gt;&lt;/span&gt;
+                     | &lt;span class="art-postediticon"&gt;&lt;/span&gt;
+                                    &lt;/div&gt;
+                &lt;div class="art-postcontent art-postcontent-1 clearfix" &gt;
+&lt;div class="art-content-layout"&gt;
+&lt;div class="art-content-layout-row"&gt;
+&lt;div class="art-layout-cell" style="padding-right: 10px;padding-left: 10px; width:100%"&gt;
+&lt;div class="image-caption-wrapper" style="width: 55%; float: left"&gt;&lt;img alt="an-image" style="width: 100%" class="art-lightbox" src="shutterstock_62287657-01-3.jpg"&gt;&lt;/div&gt;
+&lt;h1&gt;Heading 1&lt;/h1&gt;
+&lt;h2&gt;Heading 2&lt;/h2&gt;
+&lt;h3&gt;Heading 3&lt;/h3&gt;
+&lt;h4&gt;Heading 4&lt;/h4&gt;
+&lt;h5&gt;Heading 5&lt;/h5&gt;
+&lt;h6&gt;Heading 6&lt;/h6&gt;
+&lt;p&gt;Lorem dolor&amp;nbsp;amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. &lt;cite&gt;cite&lt;/cite&gt;. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;br /&gt;&lt;a href="#"&gt;Далее...&lt;/a&gt;
+                &lt;/div&gt;
+                                &lt;div class="art-postfootericons art-metadata-icons"&gt;
+                    &lt;span class="art-postcategoryicon"&gt;Category: No Category&lt;/span&gt;
+                     | &lt;span class="art-posttagicon"&gt;Tags: &lt;a href="#" title="link"&gt;link&lt;/a&gt;, &lt;a href="#" title="visited link" class="visited"&gt;visited&lt;/a&gt;, &lt;a href="#" title="hovered link" class="hover"&gt;hovered&lt;/a&gt;&lt;/span&gt;
+                     | &lt;span class="art-postcommentsicon"&gt;&lt;a href="#" title="Comments"&gt;No Comments &amp;#187;&lt;/a&gt;&lt;/span&gt;
+                                    &lt;/div&gt;
+                &lt;/article&gt;
+</content>
+   <layout>
+    <struct>{content}</struct>
+    <contents>
+     <content></content>
+    </contents>
+   </layout>
+   <pageHead></pageHead>
+  </page>
+ </pages>
+ <sidebars>
+  <sidebar caption="" name="sidebar1">
+   <menuWidget name="art_vmenu-1" position="0" title="VMenu">
+    <content>&lt;div class="art-vmenublock clearfix"&gt;
+        &lt;div class="art-vmenublockcontent" &gt;
+&lt;ul class="art-vmenu"&gt;
+	&lt;li&gt;
+		&lt;a href="/home" class="active"&gt;Home&lt;/a&gt;
+		&lt;ul class="active"&gt;
+			&lt;li&gt;
+                &lt;a href="/home/new-page" &gt;Subpage 1&lt;/a&gt;
+
+            &lt;/li&gt;
+			&lt;li&gt;
+                &lt;a href="/home/new-page-2" &gt;Subpage 2&lt;/a&gt;
+
+            &lt;/li&gt;
+			&lt;li&gt;
+                &lt;a href="/home/new-page-3" &gt;Subpage 3&lt;/a&gt;
+
+            &lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/li&gt;	
+	&lt;li&gt;
+		&lt;a href="/blog" &gt;Blog&lt;/a&gt;
+	&lt;/li&gt;	
+&lt;/ul&gt;
+                
+        &lt;/div&gt;
+&lt;/div&gt;
+</content>
+    <pageHead></pageHead>
+   </menuWidget>
+   <widget name="login-2" position="1" title="Login Form">
+    <content>&lt;form action="#" method="post" name="login" id="form-login"&gt;
+  &lt;fieldset class="input" style="border: 0 none;"&gt;
+    &lt;p id="form-login-username"&gt;
+      &lt;label for="modlgn_username"&gt;Username&lt;/label&gt;
+      &lt;br /&gt;
+      &lt;input id="modlgn_username" type="text" name="username" class="inputbox" alt="username" size="18" /&gt;
+    &lt;/p&gt;
+    &lt;p id="form-login-password"&gt;
+      &lt;label for="modlgn_passwd"&gt;Password&lt;/label&gt;
+      &lt;br /&gt;
+      &lt;input id="modlgn_passwd" type="password" name="passwd" class="inputbox" size="18" alt="password" /&gt;
+    &lt;/p&gt;
+    &lt;p id="form-login-remember"&gt;
+      &lt;label class="art-checkbox"&gt;
+      &lt;input type="checkbox" id="modlgn_remember" name="remember" value="yes" alt="Remember Me" /&gt;Remember Me
+      &lt;/label&gt;
+    &lt;/p&gt;
+    &lt;input type="submit" value="Login" name="Submit" class="art-button" /&gt;    
+  &lt;/fieldset&gt;
+  &lt;ul&gt;
+    &lt;li&gt;
+      &lt;a href="#"&gt;Forgot your password?&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;a href="#"&gt;Forgot your username?&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;a href="#"&gt;Create an account&lt;/a&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/form&gt;</content>
+    <pageHead></pageHead>
+   </widget>
+   <widget name="search-2" position="2" title="Search">
+    <content>&lt;div&gt;
+  &lt;form action="#" class="art-search" method="get" name="searchform"&gt;
+    &lt;input type="text" value="" name="s" /&gt;
+    &lt;input type="submit" value="Search" name="search" class="art-search-button" /&gt;
+  &lt;/form&gt;
+&lt;/div&gt;</content>
+    <pageHead></pageHead>
+   </widget>
+   <block name="text-1" position="3" title="Block">
+    <content>&lt;p&gt;Enter content here...&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;input type="text" value="Text..."&gt;&lt;/p&gt;
+&lt;p style="margin-top: 5px"&gt;&lt;label class="art-checkbox"&gt;&lt;input value="" type="checkbox"&gt;Lorem ipsum dolor.&lt;/label&gt;&lt;/p&gt;
+&lt;p style="margin-top: 5px"&gt;&lt;label class="art-radiobutton"&gt;&lt;input value="" type="radio" name="rg"&gt;Text...&lt;/label&gt; &lt;label class="art-radiobutton"&gt;&lt;input value="" type="radio" name="rg"&gt;Text...&lt;/label&gt;&lt;/p&gt;
+&lt;p style="margin-top: 5px"&gt;&lt;a href="#" class="art-button"&gt;Send&lt;/a&gt;&lt;/p&gt;</content>
+    <pageHead></pageHead>
+   </block>
+  </sidebar>
+  <sidebar caption="" name="content-before" />
+  <sidebar caption="" name="content-after" />
+ </sidebars>
+</site>

@@ -1,0 +1,926 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Found in faq header.
+msgid "Image Gallery"
+msgstr ""
+
+#. Short description.
+msgid "Huge-IT Image Gallery is the best plugin to use if you want to be original with your website."
+msgstr ""
+
+#. Screenshot description.
+msgid "WordPress Image Gallery view 1 - Gallery / Content Popup"
+msgstr ""
+
+#. Screenshot description.
+msgid "WordPress Image Gallery view 2 - Content Slider"
+msgstr ""
+
+#. Screenshot description.
+msgid "WordPress Image Gallery view 3 - Lightbox Gallery"
+msgstr ""
+
+#. Screenshot description.
+msgid "WordPress Image Gallery view 4 - Slider"
+msgstr ""
+
+#. Screenshot description.
+msgid "WordPress Image Gallery view 5 - Thumbnails"
+msgstr ""
+
+#. Screenshot description.
+msgid "WordPress Image Gallery view 6 - Justified Gallery"
+msgstr ""
+
+#. Screenshot description.
+msgid "<a href=\"http://wordpress.org/plugins/gallery-images/\">WordPress Image Gallery</a> - Image Gallery admin page"
+msgstr ""
+
+#. Screenshot description.
+msgid "<a href=\"http://wordpress.org/plugins/gallery-images/\">WordPress Image Gallery</a> - Image Gallery uploader"
+msgstr ""
+
+#. Screenshot description.
+msgid "<a href=\"http://wordpress.org/plugins/gallery-images/\">WordPress Image Gallery</a> - Image Gallery General options"
+msgstr ""
+
+#. Screenshot description.
+msgid "<a href=\"http://wordpress.org/plugins/gallery-images/\">WordPress Image Gallery</a> - Image Gallery add widget"
+msgstr ""
+
+#. Screenshot description.
+msgid "<a href=\"http://wordpress.org/plugins/gallery-images/\">WordPress Image Gallery</a> - Image Gallery"
+msgstr ""
+
+#. Found in description header, faq header.
+msgid "Wordpress Image Gallery"
+msgstr ""
+
+#. Found in description header.
+msgid "The features of the Image Gallery"
+msgstr ""
+
+#. Found in description header.
+msgid "7 Views Options"
+msgstr ""
+
+#. Found in description header.
+msgid "Image Gallery Demos"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://huge-it.com/wordpress-gallery/\">Wordpress Image Gallery</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://huge-it.com/wordpress-plugins-gallery-demo/\">Demo Image Gallery</a>"
+msgstr ""
+
+#. Found in description list item, description paragraph.
+msgid "<a href=\"http://huge-it.com/wordpress-plugins-gallery-demo-admin/\">Demo Image Gallery Admin</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://huge-it.com/wordpress-plugins-gallery-user-manual/\">User Image Gallery Manual</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Gallery / Content-Popup - Image Gallery"
+msgstr ""
+
+#. Found in description list item.
+msgid "Content Slider - Image Gallery"
+msgstr ""
+
+#. Found in description list item.
+msgid "Ligthtbox Gallery - Image Gallery"
+msgstr ""
+
+#. Found in description list item.
+msgid "Huge-IT Slider - Image Gallery"
+msgstr ""
+
+#. Found in description list item.
+msgid "Thumbnail view - Image Gallery"
+msgstr ""
+
+#. Found in description list item.
+msgid "Justified - Image Gallery"
+msgstr ""
+
+#. Found in description list item.
+msgid "Block Style Gallery - Image Gallery"
+msgstr ""
+
+#. Found in description list item.
+msgid "1) All gallery items in a long tape - Image Gallery"
+msgstr ""
+
+#. Found in description list item.
+msgid "2) Divide gallery into pages - pagination for gallery - Image Gallery"
+msgstr ""
+
+#. Found in description list item.
+msgid "3) Divide gallery into parts using “load more” button - Image Gallery"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "https://www.youtube.com/watch?v=fNz0hW01k3k"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Huge-IT Image Gallery is the best plugin among WordPress gallery plugins. If you want to be original with your website. Image Gallery  has been specially made to allow it’s users create a galley demonstrate it in different ways. Just add image or video in your new gallery, wright descriptions and titles for each item of the Image Gallery and choose one from 7 unrepeatable view, or 7 type of gallery."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "In free version of Image Gallery you are allowed to use all these  7 views. Demonstration of the gallery on front end can be made in different ways, no matter you use image gallery, video gallery or all both in one gallery."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "All these 3 ways you can find on the right side of the galley admin page."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "In licensed version each view of the Image Gallery has unique customizable options in “ General Options “ section to make them fit your taste. The options of the gallery are called general, because every gallery with certain type will have the same customization.  In Image Gallery almost every type of text can be change from the standpoint of text and color. Image Gallery also has a lot of features relative as to Image Gallery views and to it's Lightbox. Talking about Lightbox, notice, that Image Gallery plugin has separate options page, where you can choose one from 5 lightbox views, and customize it. Lightbox is given with image Gallery plugin, and being a part of Image Gallery. Using it within your gallery items you can make them come up individually. And that way to create desirable style of your website. Using our Image Gallery show your images and videos in it's best way!"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Image Gallery plugin offers you, being already easy to use and friendly admin panel for creating your gallery, add new gallery or adjust already created gallery, where you can add several images and videos at a time and immediately give them a title, description and link, which goes to any page, and set the way it opens. All these things you can make immediately on Image Gallery admin page, while creating your gallery. You are given an ability to create unlimited number of different galleries, give different name to each of gallery. Huge-IT Image Gallery and all other plugins of our company have very high quality support so you always can be sure that you will not have any problems, with this plugin. Our experts are always ready to respond any your questions related to our Image Gallery plugin, or to all your additional requests about gallery. With our Image Gallery you can realize your most original ideas."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "7 views of the Image Gallery gives you 7 ways to be the best!"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Each view of Image Gallery is original, elegant and will fit to any styles of your images/videos and information. No matter to slide the gallery or show your media in thumbnails, or give them a useful information and show both together, whatever you choose for your your gallery will look original, because we worked hard on making Image Gallery irrepetible. You can always be bold in your ideas with Huge-IT Image Gallery."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Considering the large number of gallery plugins in WordPress, Huge-IT company day by day will improve and enhance the functionality of Image Gallery, and keep on adhering to the first position among WordPress Gallery plugins. One of our new improvement is the video adding ability in Image Gallery, besides images now you can also add any video you’d like from Youtube or Vimeo, just adding the video link you can get to show them in one of Image Gallery views.  So We are sure our Image Gallery  will always satisfy you."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Now just Install &amp; Enjoy. All new information about new features and improvements that we made, you can find on our blog in the main page of Huge-it.com."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Gallery / content-popup  -  Image Gallery</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Content slider  -  Image Gallery</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "This type of Gallery in Image Gallery plugin allows you to see your images or videos with it’s description text, it’s title and “View More” button inside the slider. Just click on the arrows on the corners which appear as you hover a mouse over the gallery. By clicking on the arrows of the gallery in Content Slider view, you can slider your content, from left to right."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Ligthtbox gallery  -  Image Gallery</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Slider  -  Image Gallery</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Thumbnails View  -  Image Gallery</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Justified  -  Image Gallery</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Blog Style Gallery  -  Image Gallery</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "To see all these fantastic gallery views in demo, go through the links below, and choose the best look for your gallery."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<a href=\"http://huge-it.com/wordpress-plugins-gallery-demo/\">Gallery /Content Popup - Gallery</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<a href=\"http://huge-it.com/wordpress-gallery-demo-2-content-slider/\">Content Slider - Gallery</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<a href=\"http://huge-it.com/wordpress-gallery-demo-3-lightbox-gallery/\">Lightbox Gallery - Gallery</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<a href=\"http://huge-it.com/joomla-extansions-demo-4-slider-2/\">Slider - Gallery</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<a href=\"http://huge-it.com/wordpress-gallery-demo-5-thumbnails/\">Thumbnails - Gallery</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<a href=\"http://huge-it.com/wordpress-plugins-gallery-justified-gallery/\">Justified Gallery - Gallery</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<a href=\"http://huge-it.com/wordpress-plugins-gallery-blog-style-gallery/\">Blog Style Gallery - Gallery</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "If you think, that you found a bug in our <a href=\"http://huge-it.com/wordpress-gallery/\">WordPress Image Gallery</a> plugin or have any question contact us at <a href=\"mailto:info@huge-it.com\">info@huge-it.com</a>."
+msgstr ""
+
+#. Found in installation header.
+msgid "First download the ZIP file ,"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Log in to your website administrator panel.   "
+msgstr ""
+
+#. Found in installation list item.
+msgid "Go to Plugins page, and add new plugin.    "
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload <a href=\"http://wordpress.org/plugins/gallery-images\">WordPress Image Gallery</a>. "
+msgstr ""
+
+#. Found in installation list item.
+msgid "Click <code>Install Now</code> button.     "
+msgstr ""
+
+#. Found in installation list item.
+msgid "Then click <code>Activate Plugin</code> button. "
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Now you can set your Image Gallery options, images and use our Image Gallery."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed in Image Gallery."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Few Minor Bugs Fixed in Image Gallery."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added page navigation and load more on Image Gallery."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added new view in Image Gallery."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed and w3c standards in Image Gallery."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Security bug fixed in Image Gallery."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Widget Bug fixed in Image Gallery."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Front end Bug fixed in Image Gallery."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Double alt Bug fixed in Image Gallery."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added new option in Image Gallery."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Alt tag added in images."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Two or more galleries on one page already available."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bugs have been fixed on Image Gallery's lightbox."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New awesome 'Justified' view has been launched in Image Gallery."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Notices errors has been fixed in Image Gallery."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Change view admin Bug fixed in Image Gallery."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "SQL Injection bug has been fixed in Image Gallery."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add image Bug fixed Image Gallery."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed Image Gallery."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed and added some features Image Gallery."
+msgstr ""
+
+#. Found in faq header.
+msgid "If you think, that you found a bug in our [WordPress Image Gallery](http://huge-it.com/wordpress-gallery/) plugin or have any question contact us at [info@huge-it.com](mailto:info@huge-it.com)."
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Step 1. Adding a Image Gallery"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Upgrade to [WordPress Image Gallery Pro](http://huge-it.com/wordpress-gallery/) to add some features:"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Step 2. General Options of Image Gallery"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Huge-IT Image Gallery &gt; Add New Image Gallery"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "OR"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Inserting Created Image Gallery</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "When you finish creating your Image Gallery. Find on the right site 3 blocks"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Views. Here, among 6 views, mentioned above, chose the view for your Image Gallery."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Usage. Here you can find a shortcode of your Image Gallery. You can Copy&amp;Paste this shortcode wherever you need in your posts or page, where you want your Image Gallery be. Or you can add this code automatically, when posting your Image Gallery there is a button to add Image Gallery, pressing on it the shortcode inserts into your post."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Template Include. This code made to be inserted into your template, it makes the inserting Image Gallery easy for using in custom location within theme."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "In this section you can modify your Image Gallery in more details. That will change the features of each view you choose."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "2.1 <strong>Gallery / content-popup  -  Image Gallery</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Element Styles of Image Gallery</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Element Width. Sets the width of posted image in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Element Height. Sets the high of posted image in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Element Border Width. Set the border with of the element in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Element Border Color. Choose the color for the border in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Element's Image Overlay Color. Choose a color for the overlay on the image while hovering on it in Image Gallery"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Element's Image Overlay Transparency. Set the level of transparency of the image overlay in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Zoom Image Style. Changes the color of zoom icon in Image Gallery"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Popup Styles of Image Gallery</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Popup Background Color. Change the background color of popup in your “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Popup Overlay Color.Choose the color for popup overlay in your “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Popup Overlay Transparency. Set the level of background transparency in your “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Popup Close Button Style. Change the color of “X” icon. Image Gallery"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Show Separator Lines. Tick to show separation lines between title and text in popup of “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Popup Description of Image Gallery</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Show Description. Tick to show the description of the image in your “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Description Font Size. Choose the size of description font in your “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Description Font Color. Change the color of description text in your “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Element Title of Image Gallery</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Element Title Font Size. Change the size of title font in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Element Title Background Color. Choose the color of title background in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Element Title Font Color. Change the color of title in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Element Link Button of Image Gallery</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Show Link Button On Element. Tick to show “View More” button on the image. Image Gallery"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Link Button Text. Change content of the “View More” text in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Link Button Font Size. Change the size of link button in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Link Button Font Color. Change the color of link font in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Link Button Background Color. choose color for link background in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Popup Title of Image Gallery</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Popup Title Font Size. Choose title font size in your “ Image Gallery “ popup"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Popup Title Font Color. Choose Title font color in popup. Image Gallery"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Popup Link Button of Image Gallery</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Show Link Button. Tick to show link button in popup of “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Link Button Text. Change the text of link button in popup of “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Link Button Font Size. Change font size of link button in popup of “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Link Button Font Color. Change color of link button in popup. Image Gallery"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Link Button Font Hover Color. Choose color of link button when hover on it of “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Link Button Background Color. Set background color of the link button in popup of “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Link Button Background Hover Color. Set background color of the link as you hover on it. Image Gallery"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "2.2 <strong>Content slider  -  Image Gallery</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Slider of Image Gallery</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Slider Background Color. Set the color of background in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Arrow Icons Style. Set black or white color of arrows in slider of “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Show Separator Lines. Click to show the lines between text, title, and link in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Title  -  Image Gallery</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Title Font Size. Set the font size of the title in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Title Font Color. Set the color of the font in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Link Button  -  Image Gallery</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Show Link Button. Click to show the link button in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Link Button Text. Change the text on link button in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Link Button Font Size. Change the font size of the link text in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Link Button Font Color. Change the color or the link text in “Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Link Button Font Hover Color. Change the color of the link text while hovering on it. Image Gallery"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Link Button Background Color. Choose the color of link background in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Link Button Background Hover Color. Choose the color of link background while hovering on it. Image Gallery"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Images  -  Image Gallery</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Main Image Width. Set the size of the image in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Description  -  Image Gallery</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Show Description. Click to show the description of the text in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Description Font Size. Set the font size of description in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Description Font Color. Set the color of font in description of “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "2.3 <strong>Ligthtbox gallery  -  Image Gallery</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Image  -  Image Gallery</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Image Width. Set the size of the image in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Image Border Width. Set the width of borders  in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Image Border Color. Choose the color for border in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Border Radius. Choose the radius of border corners in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Title Font Color. Set the color of the title in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Title Font Hover Color. Set the color of the title while hovering on it . Image Gallery"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Title Background Color. Choose title background color in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Title Background Transparency. Choose the level of title background transparency in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "2.4 <strong>Slider  -  Image Gallery</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Title Width. Choose the width for title box in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Title Has Margin. Click if you need the title to have margin in your “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Title Text Color. Set the color of the title in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Title Text Align. Set the location of the title in the box in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Title Background Transparency. Set the level of background transparency in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Title Background Color. Choose the color of title background in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Title Border Size. Set the size of the title border in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Title Border Color. Choose the color for the title border in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Title Border Radius. Set the radius for border corners in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Title Position. Choose the position for the title in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Slideshow  -  Image Gallery</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Image Behaviour. Choose resized if you need your images have the size of the slider in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Slider Background Color. Choose the color of background while images has its natural size. Image Gallery"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Slideshow Border Size. Set the size of the slider border in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Slideshow Border Color. Choose the color for the slider border in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Slideshow Border radius Choose the radius for slider border in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Description Has Margin. Choose if description need to have margin  “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Description Font Size. Set the font size for description in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Description Text Color. Set text color for description in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Description Text Align. Set the location of the description in the box   of “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Description Background Transparency. Set the level of transparency for background of description. Image Gallery"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Description Background Color. Choose the color for description background in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Description Border Size. Set the size for the border in description of “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Description Border Color. Set the color of description border in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Description Border Radius . Set the radius of the description box corners in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Description Position. Set the position of description on image. Image Gallery"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Navigation  -  Image Gallery</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Show Navigation Arrows. Click to show navigation arrows in “ Image Gallery “ slider"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Navigation Dots Position / Hide Dots. Choose the location for dots, or choose to remove them. Image Gallery"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Navigation Dots Color. choose the color for navigation dots in “ Image Gallery “ slider"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Navigation Active Dot Color. Choose the color of moving dots in “ Image Gallery “ slider"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "2.5 <strong>Thumbnails View  -  Image Gallery</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Image Behavior. Click to give your images a behavior in your “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Image Width. Set the width of thumbs in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Image Height. Set the height of thumbs in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Image Border Width. Set the width of the border between thumbs in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Image Border Color. Set the color of the border between thumbs in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Border Radius. Set the radius of the border in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Margin Image. Set the distance between each thumb in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Title Font Size. Set the size of the text font in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Title Font Color. Choose the color of text in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Overlay Background Color. Choose the overlay color of the title in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Box style  -  Image Gallery</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Box Has background. Click to have background for thumbs in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Box background. Set the Color of surrounded box in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Box Use shadow. Click if you need to have shadows in the box of “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Box padding. Set the distance between the box and images in “ Image Gallery “"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "2.6 <strong>Justified View  -  Image Gallery</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Element Styles  -  Image Gallery</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Image height. Set the height of the images/videos in tape - Image Gallery"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Image margin. Set the distance between each image/video in the tape - Image Gallery"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Image Justify. Select to make the width of all image/video up to 100% in container. So all them together will fit the container of your theme, and tick off to bring each of them with it’s natural size."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Image Randomize. Select to show your images randomly - Image Gallery."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Opening With Animation. Choose to see the tape of images/videos appearing animated - Image Gallery."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Opening Animation Speed. Select the speed of the animation - Image Gallery."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Element Title  -  Image Gallery</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Show Title. Choose to show the title or not - Image Gallery"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Element Title Font Size. Choose the font size for the title of the image / video - Image Gallery"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Element Title Font Color. Select preferable colour for the title of the image / video - Image Gallery"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Element Title Background Color. Choose the colour of title background  - Image Gallery"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Element's Title Overlay Transparency. Select the level of transparency for the title overlay - Image Gallery"
+msgstr ""
